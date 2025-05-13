@@ -131,40 +131,40 @@
               p.mb-0 Conduce el hilo a través de la tela y junto con el hilo de la bobina forman la puntada.
 
             .tarjeta.bg-color-4.p-3(x="29%" y="54%" numero="")
-              .h5.mb-2 Barra de la aguja
-              p.mb-0 Es la que sostiene la aguja y permite el movimiento.
+              .h5.mb-2 Brazo del prensatelas
+              p.mb-0 Permite mover el pie prensatela.
 
             .tarjeta.bg-color-4.p-3(x="36%" y="62.5%" numero="")
-              .h5.mb-2 Devanador
-              p.mb-0 Sirve para enrollar el hilo que necesita la bobina.
+              .h5.mb-2 Brazo del prensatelas
+              p.mb-0 Es la que sostiene la aguja y permite el movimiento.
 
             .tarjeta.bg-color-4.p-3(x="35%" y="18%" numero="")
+              .h5.mb-2 Cuchilla superior
+              p.mb-0 Es utilizada para cortar los extremos sobrantes.
+
+            .tarjeta.bg-color-4.p-3(x="31%" y="30%" numero="")
+              .h5.mb-2 Dientes
+              p.mb-0 Son los que permiten que la tela se mueva hacia atrás al ser fileteada.
+
+            .tarjeta.bg-color-4.p-3(x="73%" y="45%" numero="")
               .h5.mb-2 Guía hilos
               p.mb-0 Son pequeños alambres que dirigen el hilo.
 
-            .tarjeta.bg-color-4.p-3(x="31%" y="30%" numero="")
-              .h5.mb-2 Palanca tira-hilo
-              p.mb-0 Tira el hilo procedente de la porta hilos para suministrarlo a la aguja.
-
-            .tarjeta.bg-color-4.p-3(x="73%" y="45%" numero="")
-              .h5.mb-2 Palanca de retroceso
-              p.mb-0 Al activarlo puede hacer puntadas en reversa.
-
             .tarjeta.bg-color-4.p-3(x="22%" y="65%" numero="")
-              .h5.mb-2 Planchuela corrediza
-              p.mb-0 Está situada debajo del pie prensatelas y se puede mover para cambiar la bobina.
+              .h5.mb-2 Palanca tira-hilo
+              p.mb-0 Tira el hilo procedente del portahilos para suministrarlo a la aguja.
 
             .tarjeta.bg-color-4.p-3(x="29.5%" y="65%" numero="")
-              .h5.mb-2 Pie prensatela
-              p.mb-0 La función es hacer presión y sostener la tela contra la planchuela para que no se mueva.
+              .h5.mb-2 Planchuela removible
+              p.mb-0 Está situada debajo del pie prensatelas y se puede mover para cambiar la bobina.
 
             .tarjeta.bg-color-4.p-3(x="32%" y="62.5%" numero="")
-              .h5.mb-2 Planchuela de la aguja
-              p.mb-0 Situada debajo del pie prensatelas y tiene un orificio que permite el paso de la aguja.
+              .h5.mb-2 Visor del aceite
+              p.mb-0 Indica el nivel de aceite que tiene la máquina.
 
             .tarjeta.bg-color-4.p-3(x="75%" y="35%" numero="")
-              .h5.mb-2 Regulador de puntada
-              p.mb-0 Se utiliza para seleccionar el largo de la puntada. Si se ubica en cero la máquina no cose.
+              .h5.mb-2 Pie prensatela
+              p.mb-0 La función es hacer presión y sostener la tela contra la planchuela para que no se mueva.
 
             .tarjeta.bg-color-4.p-3(x="35%" y="39%" numero="")
               .h5.mb-2 Tensor del hilo de la aguja
@@ -172,15 +172,15 @@
 
             .tarjeta.bg-color-4.p-3(x="28%" y="12%" numero="")
               .h5.mb-2 Tornillo presión del prensatelas
-              p.mb-0 Al girar el tornillo que tiene un resorte se produce la graduación y además amortigua la fuerza que hace la palanca tira-hilo.
+              p.mb-0 Al girar el tornillo que tiene un resorte, se produce la graduación y además amortigua la fuerza que hace la palanca tira-hilo.
 
             .tarjeta.bg-color-4.p-3(x="63%" y="15%" numero="")
-              .h5.mb-2 Visor del aceite
-              p.mb-0 Indica el nivel de aceite que tiene la máquina.
+              .h5.mb-2 Volante
+              p.mb-0 El volante es la rueda que recibe el movimiento de la correa y lo transmite a los mecanismos interiores del cabezote. También puede ser movido por la mano cuando se va a levantar la aguja.
 
             .tarjeta.bg-color-4.p-3(x="80%" y="25%" numero="")
-              .h5.mb-2 Volante
-              p.mb-0 Es la rueda que recibe el movimiento de la correa y lo transmite a los mecanismos interiores del cabezote. También puede ser movido por la mano cuando se va a levantar la aguja.
+              .h5.mb-2 Planchuela
+              p.mb-0 Situada debajo del pie prensatelas y tiene un orificio que permite el paso de la aguja.
 
       .row.justify-content-center.mb-5
         .col-sm-12.col-lg-4
@@ -464,7 +464,7 @@
           .titulo-sexto.color-primario
             p.mb-0 #[b Figura 17.] Mecanismo de formación de la puntada
           figure.mb-0
-            img.w-80.m-auto(src='@/assets/curso/temas/t1/32.png', alt='')
+            img.w-80.m-auto(src='@/assets/curso/temas/t1/32.png', alt='Ilustración del mecanismo de formación de la puntada en una máquina de coser. Se muestra la dirección de rotación del gancho en sentido contrario a las manecillas del reloj, con la punta del gancho capturando el hilo de la aguja para formar la punta. Además, se destacan los componentes clave como la planchuela y el sistema de alimentación del material.')
             figcaption.mb-0 Fuente: SENA, (2014). 
 
       .row.justify-content-center.mb-5.bg-color-8.p-4
@@ -474,7 +474,7 @@
           .titulo-sexto.color-primario
             p.mb-0 #[b Figura 18.] Formación de la puntada (etapas del ciclo de la costura)
           figure.mb-0
-            img.w-80.m-auto(src='@/assets/curso/temas/t1/33.png', alt='')
+            img.w-80.m-auto(src='@/assets/curso/temas/t1/33.png', alt='Ilustración del proceso de formación de la puntada en una máquina de coser. Se muestra la dirección de rotación del gancho y la interacción entre la aguja, el hilo y la bobina en diferentes etapas del ciclo de costura.')
             figcaption.mb-0 Fuente: SENA, (2014). 
         .col-sm-12.col-lg-5
           p.mb-3 Se dispone a ascender tirando el hilo de la lazada para comenzar a sacarla del gancho, la aguja continúa ascendiendo y el diente comienza a transportar el material.
@@ -495,15 +495,358 @@
             li.d-flex
               i.fas.fa-check-circle.bg-color-1
               p.mb-0 Pegar marquillas.
-            li.d-flex
+            li.d-flex.mb-0
               i.fas.fa-check-circle.bg-color-1
               p.mb-0 Hacer terminados del brasier.
 
 
-
+      //-------------------------------------------------------------------
+      //-------------------------------------------------------------------
       Separador
       #t_1_2.titulo-segundo.color-acento-contenido(data-aos='fade-right')
         h2 1.2 Máquina fileteadora
+      .row.justify-content-center.mb-5
+        .col-sm-12.col-lg-8
+          .row.justify-content-center.mb-5
+            .col-sm-12.col-lg-2.d-none.d-lg-block
+              img.w-75.m-auto(src='@/assets/curso/temas/t1/34.svg', alt='')
+            .col-sm-12.col-lg-10
+              p.mb-0 La máquina fileteadora, también conocida como remalladora, es una herramienta esencial en la confección de prendas gracias al acabado profesional que proporciona. Su función principal es cortar, coser y filetear simultáneamente, logrando costuras más limpias y resistentes.
+          .bg-color-7.p-4
+            p.mb-0 Es útil especialmente en la elaboración de prendas de tejido de punto, como ropa interior y deportiva, ya que permite una mayor elasticidad y durabilidad en las costuras. Diseñada con una estructura de cama plana, su punta sobrehilada recubre los bordes de la tela, evitando que se deshilache. Además, incorpora una puntada de cadeneta de seguridad, ideal para prendas que requieren mayor resistencia. Para un acabado preciso, cuenta con cuchillas que cortan los extremos de la tela mientras se cose.
+        .col-sm-12.col-lg-4
+          .titulo-sexto.color-primario
+            p.mb-0 #[b Figura 19.] Máquina  fileteadora
+          figure.mb-0
+            img(src='@/assets/curso/temas/t1/35.png', alt='Máquina fileteadora equipada con tres carretes de hilo amarillo, utilizada en la confección de ropa interior y prendas elásticas. Su función principal es realizar acabados de bordes con costuras resistentes y flexibles, evitando que las telas se deshilachen y proporcionando un acabado profesional.')
+            figcaption.mb-0 Fuente: SENA, (2014). 
+
+
+      .row.justify-content-center.mb-5
+        .col-sm-12.col-lg-8
+          p.mb-3 Esta máquina tiene dos pedales:
+          .tarjeta--container.row.mb-0
+            .col-md.tarjeta.color-primario.p-4
+              .row.justify-content-start.mb-4
+                .col-3.d-none.d-lg-block
+                  img(src='@/assets/curso/temas/t1/37.svg', alt='')
+              p.mb-0 Izquierdo que acciona el pedal de la máquina.
+            .col-md.tarjeta.bg-color-9.p-4
+              .row.justify-content-start.mb-4
+                .col-3.d-none.d-lg-block
+                  img(src='@/assets/curso/temas/t1/38.svg', alt='')
+              p.mb-0 Derecho que sirve para levantar el pie prensatelas.
+        .col-sm-12.col-lg-4
+          .titulo-sexto.color-primario
+            p.mb-0 #[b Figura 20.] Pedales máquina fileteadora
+          figure.mb-0
+            img(src='@/assets/curso/temas/t1/36.png', alt='Máquina fileteadora o remalladora industrial montada sobre una mesa de trabajo con estructura metálica. La máquina cuenta con varios conos de hilo en la parte superior y pedales en la parte inferior para su operación.')
+            figcaption.mb-0 Fuente: SENA, (2014). 
+
+      .row.align-items-center.mb-5.titulo-icono(data-aos="fade-left")
+        .col-auto.titulo-icono-img
+          img(src='@/assets/bg/1.svg', alt='')
+        .col
+          h3.mb-0.titulo-icono-text.px-0.py-2 Partes de la máquina fileteadora
+
+      .row.justify-content-center.mb-5
+        .col-sm-12.col-lg-10
+          .titulo-sexto.color-primario
+            p.mb-0 #[b Figura 21.] Partes de la máquina fileteadora
+          ImagenInfografica.color-acento-botones.mb-5
+            template(v-slot:imagen)
+              figure
+                img(src='@/assets/curso/temas/t1/39.png', alt='Como el tensor del hilo, la cuchilla superior y el volante, son componentes clave de una máquina fileteadora. También se identifican elementos esenciales como los dientes de arrastre, la barra de agujas y las prensatelas, que participan en la alimentación y costura de la tela.')
+                figcaption.mb-0 Fuente: SENA, (2014).
+            .tarjeta.bg-color-4.p-3(x="41%" y="46%" numero="")
+              .h5.mb-2 Aguja
+              p.mb-0 Conduce el hilo a través de la tela y junto con el hilo de la bobina forman la puntada.
+            .tarjeta.bg-color-4.p-3(x="38%" y="40%" numero="")
+              .h5.mb-2 Barra de agujas
+              p.mb-0 Es una barra que sostiene las agujas y permite su movimiento.
+
+            .tarjeta.bg-color-4.p-3(x="42%" y="41%" numero="")
+              .h5.mb-2 Brazo del prensatelas
+              p.mb-0 Permite mover el pie prensatela.
+
+            
+            .tarjeta.bg-color-4.p-3(x="42.8%" y="45%" numero="")
+              .h5.mb-2 Cuchilla superior
+              p.mb-0 Es utilizada para cortar los extremos sobrantes.
+
+            .tarjeta.bg-color-4.p-3(x="38%" y="48%" numero="")
+              .h5.mb-2 Dientes
+              p.mb-0 Son los que permiten que la tela se mueva hacia atrás al ser fileteada.
+
+            .tarjeta.bg-color-4.p-3(x="60%" y="23%" numero="")
+              .h5.mb-2 Guía hilos
+              p.mb-0 Son pequeños alambres que dirigen el hilo.
+
+            .tarjeta.bg-color-4.p-3(x="36.5%" y="27%" numero="")
+              .h5.mb-2 Palanca tira-hilo
+              p.mb-0 Tira el hilo procedente del portahilos para suministrarlo a la aguja.
+
+            .tarjeta.bg-color-4.p-3(x="42%" y="50%" numero="")
+              .h5.mb-2 Planchuela removible
+              p.mb-0 Está situada debajo del pie prensatelas y se puede mover para cambiar la bobina.
+
+            .tarjeta.bg-color-4.p-3(x="60%" y="58%"  numero="")
+              .h5.mb-2 Visor del aceite
+              p.mb-0 Indica el nivel de aceite que tiene la máquina.
+
+            .tarjeta.bg-color-4.p-3(x="40%" y="51%" numero="")
+              .h5.mb-2 Pie prensatela
+              p.mb-0 La función es hacer presión y sostener la tela contra la planchuela para que no se mueva.
+
+            .tarjeta.bg-color-4.p-3(x="64%" y="33%" numero="")
+              .h5.mb-2 Tensor del hilo de la aguja
+              p.mb-0 Tensiona el hilo para que la puntada sea correcta.
+
+            .tarjeta.bg-color-4.p-3(x="38%" y="12%" numero="")
+              .h5.mb-2 Tornillo presión del prensatelas
+              p.mb-0 Al girar el tornillo que tiene un resorte, se produce la graduación y además amortigua la fuerza que hace la palanca tira-hilo.
+
+            .tarjeta.bg-color-4.p-3(x="75%" y="52%" numero="")
+              .h5.mb-2 Volante
+              p.mb-0 El volante es la rueda que recibe el movimiento de la correa y lo transmite a los mecanismos interiores del cabezote. También puede ser movido por la mano cuando se va a levantar la aguja.
+
+            .tarjeta.bg-color-4.p-3(x="30%" y="50%" numero="")
+              .h5.mb-2 Planchuela
+              p.mb-0 Situada debajo del pie prensatelas y tiene un orificio que permite el paso de la aguja.
+      .row.align-items-center.mb-4.titulo-icono(data-aos="fade-left")
+        .col-auto.titulo-icono-img
+          img(src='@/assets/bg/1.svg', alt='')
+        .col
+          h3.mb-0.titulo-icono-text.px-0.py-2 Tipos de máquina fileteadora
+      p.mb-5 En el mercado, existen 3 tipos de máquinas fileteadoras o #[i overlock] y se enumeran según la cantidad de hilos que utilizan:
+      .row.mb-5
+        .col-sm-12.col-lg-4.mb-cus
+          .tarjeta-avatar
+            img.d-none.d-lg-block.w-25.m-auto(src='@/assets/curso/temas/t1/40.svg' alt='')
+            .tarjeta.bg-color-10
+              .p-4
+                p.mb-0 #[b Fileteadora de 3 hilos:] la más sencilla es la de 3 hilos que es usada para rematar los bordes y cerrar piezas que no necesitan puntada de seguridad.
+
+
+        .col-sm-12.col-lg-4.mb-cus
+          .tarjeta-avatar
+            img.d-none.d-lg-block.w-25.m-auto(src='@/assets/curso/temas/t1/41.svg' alt='')
+            .tarjeta.bg-color-10
+              .p-4
+                p.mb-0 #[b Fileteadora de 4 hilos:] esta máquina trabaja con 4 hilos y no realiza puntada de seguridad, hace doble zigzag. Es utilizada para coser material de tipo liviano como pijamas, pantys, pegar refuerzo de calzoncillos, entre otras.
+
+        .col-sm-12.col-lg-4.mb-cus
+          .tarjeta-avatar
+            img.d-none.d-lg-block.w-25.m-auto(src='@/assets/curso/temas/t1/42.svg' alt='')
+            .tarjeta.bg-color-10
+              .p-4
+                p.mb-0 #[b Fileteadora de 5 hilos:] realiza el filete o zigzag y la puntada de seguridad simultáneamente ayudando a ahorrar tiempo al cerrar los costados, hombros, poner mangas, entre otras.
+
+      .row.align-items-center.mb-4.titulo-icono(data-aos="fade-left")
+        .col-auto.titulo-icono-img
+          img(src='@/assets/bg/1.svg', alt='')
+        .col
+          h3.mb-0.titulo-icono-text.px-0.py-2 Enhebrados de la máquina fileteadora
+
+      .row.justify-content-center.mb-5
+          .col-sm-12.col-lg-8
+            TabsA.color-acento-botones
+              .tarjeta.color-acento-botones.p-4(titulo="Hilos superiores")
+                h4 Hilos superiores
+                p.mb-4 Los hilos superiores se enhebran parecidos a la máquina de coser plana. La máquina fileteadora puede ser trabajada con cuatro hilos; pero si es solo para filetear, se trabaja con tres de ellos, que son los hilos que realizan los orillos.
+                .row.mb-0
+                  .col-sm-12.col-lg-12
+                    .titulo-sexto.color-primario
+                      p.mb-0 #[b Figura 22.] Enhebrado de los hilos superiores (modelo MO – 2410)
+                    figure.mb-0
+                      img(src='@/assets/curso/temas/t1/44.png', alt='Diagrama técnico de una máquina fileteadora (overlock) modelo MO-2410, mostrando el enhebrado de los hilos a través de los tensores y guías. Se observan cuatro carretes de hilo en la parte superior, cada uno conectado a un tensor de hilo. Desde ahí, los hilos siguen un recorrido específico a través de varias guías hasta llegar a las agujas y el áncora de la máquina. ')
+                      figcaption.mb-0 Fuente: SENA, (2014). 
+              
+              .tarjeta.color-acento-botones.p-4(titulo="Hilos inferiores")
+                h4 Hilos inferiores
+                p.mb-4 Para el enhebrado de los hilos inferiores o puntada de seguridad es un poco más complicado. Para lograr éste enhebrado, son necesarios los otros dos que hacen la costura recta de cadeneta, la cual es llamada puntada de seguridad.
+                
+                .titulo-sexto.color-primario
+                  p.mb-0 #[b Figura 23.] Enhebrado de los hilos inferiores
+                figure.mb-5
+                  img(src='@/assets/curso/temas/t1/45.png', alt='Mecanismo inferior de una máquina fileteadora, mostrando el sistema de alimentación y formación de puntada.')
+                  figcaption.mb-0 Fuente: SENA, (2014). 
+                p.mb-4 En el siguiente esquema, se encuentra una guía con el enhebrado de una fileteadora de 5 hilos, cada color corresponde a un hilo.
+                .titulo-sexto.color-primario
+                  p.mb-0 #[b Figura 24.] Enhebrado de 5 hilos 
+                figure.mb-0
+                  img(src='@/assets/curso/temas/t1/46.png', alt='Mecanismo inferior de una máquina fileteadora, mostrando el sistema de alimentación y formación de puntada.')
+                  figcaption.mb-0 Fuente: SENA, (2014). 
+
+          .col-sm-12.col-lg-4.d-none.d-lg-block
+            img(src='@/assets/curso/temas/t1/43.png', alt='')
+
+  
+      .row.align-items-center.mb-4.titulo-icono(data-aos="fade-left")
+        .col-auto.titulo-icono-img
+          img(src='@/assets/bg/1.svg', alt='')
+        .col
+          h3.mb-0.titulo-icono-text.px-0.py-2 Elementos mecánicos para formar las puntadas
+
+      p.mb-5 La siguiente figura presenta los diferentes tipos de puntadas que pueden realizar las máquinas fileteadoras, clasificadas según la cantidad de hilos utilizados y sus elementos mecánicos. Cada tipo de puntada combina agujas, loopers y extensores para lograr distintos acabados y niveles de resistencia en la costura. Destaca la puntada de seguridad de 5 hilos, que proporciona una mayor durabilidad y es común en la confección industrial.
+
+      .titulo-sexto.color-primario
+        p.mb-0 #[b Figura 25.] Elementos  mecánicos (fileteadoras)
+      .row.justify-content-center.mb-5
+        .col-sm-12.col-lg-8.bg-color-11.p-4
+          figure.mb-0
+            img.w-75.m-auto(src='@/assets/curso/temas/t1/48.svg', alt='Presenta los tipos de puntadas en máquinas fileteadoras según la cantidad de hilos y sus elementos mecánicos. Incluye clasificaciones desde 501 (1 hilo) hasta 515 (5 hilos), detallando la combinación de agujas, loopers y extensores utilizados en cada tipo de costura. Destaca que la puntada de 5 hilos (tipo 515) incluye dos agujas y tres loopers, formando una puntada de seguridad.')
+            figcaption.mb-0.w-75.m-auto.mt-1 Fuente: SENA, (2014). 
+        .col-sm-12.col-lg-4.d-none.d-lg-block
+          img(src='@/assets/curso/temas/t1/47.png', alt='')
+            
+      .row.align-items-center.mb-4.titulo-icono(data-aos="fade-left")
+        .col-auto.titulo-icono-img
+          img(src='@/assets/bg/1.svg', alt='')
+        .col
+          h3.mb-0.titulo-icono-text.px-0.py-2 Tipos de lubricación y sistema de alimentación
+
+      .row.justify-content-center.mb-5.align-items-center
+        .col-sm-12.col-lg-8
+          p.mb-3 Las máquinas fileteadoras cuentan con dos tipos de lubricación:
+          .row.mb-0
+            .col-sm-12.col-lg-6
+              .tarjeta-avatar-b.mb-5
+                .tarjeta-avatar-b__img
+                  img(src='@/assets/curso/temas/t1/50.svg' alt='')
+                .tarjeta.bg-color-12
+                  .p-4
+                    h4 Automática
+                    p.mb-0 Que puede operar mediante bombas, piñones, salpique o un sistema capilar.
+            .col-sm-12.col-lg-6
+              .tarjeta-avatar-b.mb-0
+                .tarjeta-avatar-b__img
+                  img(src='@/assets/curso/temas/t1/51.svg' alt='')
+                .tarjeta.bg-color-12
+                  .p-4
+                    h4 Manual
+                    p.mb-0 En la cual el operador aplica el lubricante en los puntos clave de la máquina.
+        .col-sm-12.col-lg-4.d-none.d-lg-block
+          img(src='@/assets/curso/temas/t1/49.png', alt='')
+
+      p.mb-5 En cuanto a la alimentación, el sistema diferencial utiliza dos juegos de dientes de arrastre con transporte individual y ajuste independiente, lo que permite adaptar el avance del material según el tipo de tela y el efecto deseado.
+      .row.justify-content-center.align-items-center.mb-5.bg-color-13.px-4.py-3
+        .col-sm-12.col-lg-7
+            p.mb-4 El transporte diferencial se basa en la relación entre el recorrido del diente principal y el diente diferencial. Algunos ejemplos incluyen:
+            ul.lista-ul--color.mb-0
+              li.d-flex
+                i.fas.fa-check-circle.bg-color-1
+                p.mb-0  Si el diente principal recorre 3 mm y el diente diferencial 6 mm, la relación es 1:2, lo que acelera el avance del material.
+                
+              li.d-flex.mb-0
+                i.fas.fa-check-circle.bg-color-1
+                p.mb-0 Si el diente principal recorre 3 mm y el diente diferencial 1.5 mm, la relación es 2:1, lo que genera un efecto de estiramiento en la tela (relación inversa).
+        .col-sm-12.col-lg-5.d-none.d-lg-block
+          img(src='@/assets/curso/temas/t1/52.png', alt='')
+
+      .bg-color-6.mb-4(data-aos="fade-left")
+          h3.px-3.py-1    Tipos de alimentación
+      p.mb-5 Dependiendo del mecanismo y las necesidades de confección, los sistemas de alimentación pueden ser:
+      .row.mb-5
+        .col-sm-12.col-lg-4.mb-cus
+          .tarjeta-avatar
+            img.d-none.d-lg-block.w-25.m-auto(src='@/assets/curso/temas/t1/53.svg' alt='')
+            .tarjeta.bg-color-10
+              .p-4
+                h4.text-center Alimentación simple
+                p.mb-0.text-center  Los dientes avanzan de manera uniforme.
+
+
+        .col-sm-12.col-lg-4.mb-cus
+          .tarjeta-avatar
+            img.d-none.d-lg-block.w-25.m-auto(src='@/assets/curso/temas/t1/54.svg' alt='')
+            .tarjeta.bg-color-10
+              .p-4
+                h4.text-center Alimentación diferencial
+                p.mb-0.text-center  Permite ajustar de forma independiente el movimiento del diente principal y el diferencial.
+
+        .col-sm-12.col-lg-4.mb-cus
+          .tarjeta-avatar
+            img.d-none.d-lg-block.w-25.m-auto(src='@/assets/curso/temas/t1/55.svg' alt='')
+            .tarjeta.bg-color-10
+              .p-4
+                h4.text-center Alimentación asistida
+                p.mb-0.text-center Utiliza rodillos o mecanismos adicionales para mejorar el arrastre de la tela.
+      p.mb-5 Estos sistemas garantizan una costura precisa y adaptable a distintos tipos de tejidos, optimizando la calidad del acabado en las prendas.
+      .row.align-items-center.mb-4.titulo-icono(data-aos="fade-left")
+        .col-auto.titulo-icono-img
+          img(src='@/assets/bg/1.svg', alt='')
+        .col
+          h3.mb-0.titulo-icono-text.px-0.py-2 Sistema de accionamiento
+      .row.justify-content-center.mb-5
+        .col-sm-12.col-lg-8
+          p.mb-4 #[b Mecanismos:] el sistema de alimentación diferencial posee dos dientes con transporte individual y ajuste independiente.
+          p.mb-3 #[b Mecanismos de las máquinas fileteadoras:] las máquinas fileteadoras están compuestas por diversos mecanismos que permiten su correcto funcionamiento.
+          .bg-color-13.p-4.br-2
+            p.mb-3.fw-bold Entre ellos se encuentran:
+            .row.mb-0
+              .col-sm-12.col-lg-7
+                ul.lista-ul--color.mb-0
+                  li.d-flex
+                    i.fas.fa-check-circle.bg-color-1
+                    p.mb-0 Mecanismo de la barra de aguja.
+                  li.d-flex
+                    i.fas.fa-check-circle.bg-color-1
+                    p.mb-0 Mecanismo del prensatelas.
+                  li.d-flex
+                    i.fas.fa-check-circle.bg-color-1
+                    p.mb-0 Mecanismo de alimentación (oscilante sencillo con diferencial).
+                  li.d-flex
+                    i.fas.fa-check-circle.bg-color-1
+                    p.mb-0 Mecanismo del looper derecho o superior.
+                  li.d-flex.mb-0
+                    i.fas.fa-check-circle.bg-color-1
+                    p.mb-0 Mecanismo del looper izquierdo o inferior.
+              .col-sm-12.col-lg-5
+                ul.lista-ul--color.mb-0
+                  li.d-flex
+                    i.fas.fa-check-circle.bg-color-1
+                    p.mb-0 Mecanismo de corte.
+                  li.d-flex
+                    i.fas.fa-check-circle.bg-color-1
+                    p.mb-0 Mecanismo de lubricación.
+                  li.d-flex
+                    i.fas.fa-check-circle.bg-color-1
+                    p.mb-0 Mecanismo del looper (vaivén y esquive).
+                  li.d-flex.mb-0
+                    i.fas.fa-check-circle.bg-color-1
+                    p.mb-0 Leva tira-hilo.
+        .col-sm-12.col-lg-4.d-none.d-lg-block
+          img(src='@/assets/curso/temas/t1/56.png', alt='')
+
+      .row.justify-content-center.mb-5
+        .col-sm-12.col-lg-4.d-none.d-lg-block
+          img(src='@/assets/curso/temas/t1/57.png', alt='')
+        .col-sm-12.col-lg-8
+          p.mb-3 Además, las máquinas cuentan con guías de hilos y tira-hilos, los cuales regulan la cantidad de hilo utilizado tanto en la aguja como en los loopers, asegurando una costura uniforme y de calidad. Cuando la máquina está equipada con puntada de seguridad (cadeneta 401), permite realizar diversas operaciones en confección, tales como:
+          .row.justify-content-center.align-items-center.mb-3
+            .col-sm-12.col-lg-6
+              ul.lista-ul--color.mb-0
+                  li.d-flex
+                    i.fas.fa-check-circle.bg-color-1
+                    p.mb-0 Cerrar los lados de camisetas y sudaderas.
+                  li.d-flex
+                    i.fas.fa-check-circle.bg-color-1
+                    p.mb-0 Encarterar bragas.
+                  li.d-flex
+                    i.fas.fa-check-circle.bg-color-1
+                    p.mb-0 Pegar refuerzos en calzoncillos.
+                  li.d-flex.mb-0
+                    i.fas.fa-check-circle.bg-color-1
+                    p.mb-0 Unir copas de sujetador.
+            .col-sm-12.col-lg-6.d-none.d-lg-block
+              img(src='@/assets/curso/temas/t1/58.png', alt='')
+          p.mb-0 Estos mecanismos y funciones hacen que la fileteadora sea una herramienta esencial en la confección de prendas con acabados profesionales y resistentes.
+
+
+
+
+
       Separador
       #t_1_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
         h2 1.3 Máquina collarín o recubridora
