@@ -41,3 +41,129 @@
   color: $white !important  
 .titulo-principal.color-acento-contenido .titulo-principal__numero span
   color: $color-sistema-texto !important
+.tarjeta.bg-color-2.acordion__activo
+    background-color: #D2C3DD !important
+.acordion__accion__btn--a 
+    background-color: $color-acento-botones !important
+.tabs-a__tab 
+    background-color: $color-acento-contenido 
+.tabs-a.color-acento-botones .tabs-a__tab__selected
+  color: $color-sistema-texto !important
+.tabs-a__content-item.tabs-a__content-item--active .tarjeta.color-acento-botones
+  background-color: #D9EAFA
+.tarjeta.color-acento-botones *
+  color: $color-sistema-texto !important
+
+.linea-tiempo-d.color-primario .linea-tiempo-d__item__number
+  background-color: #B4D5F6 !important
+
+.linea-tiempo-d.color-primario .linea-tiempo-d__item__content
+    background-color: #B4D5F6 !important
+
+.linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__number
+  background-color: #D2C3DD !important
+
+.linea-tiempo-d.color-primario .linea-tiempo-d__item--selected .linea-tiempo-d__item__content
+    background-color: #D2C3DD !important
+
+/**************************************************************/
+/***CUSTOM STYLES***/
+/**************************************************************/
+.w-15
+  width: 15% !important
+.w-95
+  width: 95% !important
+.w-80
+  width: 80% !important
+.bg-full-width
+  background-size: cover
+  background-repeat: no-repeat
+  background-position: bottom
+  margin-inline: -3.3rem
+  @media screen and (max-width: $bp-max-sm)
+    padding-left: 1.5rem
+    padding-right: 1.5rem
+.bg-fondo
+  &-1
+    background-image: url("../assets/bg/2.svg") !important
+    background-position: bottom
+.bg-color
+  &-1
+    color: $color-primario !important
+  &-2
+    background-color: #B4D5F6 !important
+  &-3
+    background-color: #EBF4FC !important
+  &-4
+    background-color: #D2C3DD !important
+  &-5
+    background-color: #B4D5F6 !important
+  &-6
+    background-color: #D9EAFA !important
+    border-radius: 20px !important
+    width: fit-content !important
+  &-7
+    background-color: #F8FAEE !important
+  &-8
+    background-color: #F3EFF6 !important
+
+.br
+  &-1
+    border-radius: 10px !important
+
+      
+.hcard
+  &-1
+    height: 750px !important
+
+.titulo-icono
+  background-color: $color-primario
+  border-radius: 30px
+  width: fit-content
+  position: relative;
+  left: 12px;
+  &-text
+    margin-right: 10px
+    margin-left: 50px;
+    color: $white
+  &-img
+    padding: 0px
+    position: absolute
+
+    &:before
+      position: relative
+      border-bottom-right-radius: 40px
+      @media screen and (max-width: 767px)
+        height: 280%
+    img
+      position: relative
+      max-width: 50px
+      
+
+/**************************************************************/
+/*Media Queries*/  
+/**************************************************************/
+
+//// DESKTOP SMALL 1400--------------------------------------
+@media screen and (max-width: $bp-min-xxl)
+  .mb-cus
+    margin-bottom: 2em  !important 
+
+//// TABLET 992--------------------------------------
+@media screen and (max-width: $bp-max-md)
+  .mb-cus
+    margin-bottom: 2em  !important  
+  
+  
+  
+//// TABLET MINI 768--------------------------------------
+@media screen and (max-width: $bp-min-md)
+  .mb-cus
+    margin-bottom: 2em  !important  
+  
+
+//// MOBILE 576--------------------------------------
+@media screen and (max-width: $bp-min-sm)
+  .mb-cus
+    margin-bottom: 2em  !important
+  
