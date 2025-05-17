@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_402528" data-name="Rectángulo 402528" width="120" height="120" transform="translate(740.051 16133.694)" fill="#916aab"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_1098754" data-name="Enmascarar grupo 1098754" transform="translate(-740.051 -16133.694)" clip-path="url(#clip-path)">
+    <g id="Page-1" transform="translate(740.051 16133.694)">
+      <g id="_018---Sewing-Machine" data-name="018---Sewing-Machine">
+        <g id="Icons_copy" transform="translate(2 2)">
+          <g id="Grupo_1103103" data-name="Grupo 1103103">
+            <path id="Shape" d="M24,76H4a4.012,4.012,0,0,1-4-4V68a4.012,4.012,0,0,1,4-4H24" fill="#ff9801"/>
+            <path id="Shape-2" data-name="Shape" d="M52,64h60a4.012,4.012,0,0,1,4,4v4a4.012,4.012,0,0,1-4,4H52" fill="#ff9801"/>
+            <path id="Shape-3" data-name="Shape" d="M112,64h-6a4.012,4.012,0,0,1,4,4v4a4.012,4.012,0,0,1-4,4h6a4.012,4.012,0,0,0,4-4V68A4.012,4.012,0,0,0,112,64Z" fill="#f57c00"/>
+            <path id="Shape-4" data-name="Shape" d="M4,76H14v38a2,2,0,0,1-2,2H6a2,2,0,0,1-2-2Z" fill="sienna"/>
+            <path id="Shape-5" data-name="Shape" d="M102,76h10v38a2,2,0,0,1-2,2h-6a2,2,0,0,1-2-2Z" fill="#783e22"/>
+            <path id="Shape-6" data-name="Shape" d="M52,64H90a4,4,0,0,0,4-4V12A12,12,0,0,0,82,0H46A12,12,0,0,0,34,12V25a5,5,0,0,0,5,5h6a4.984,4.984,0,0,0,5-4.98A5.026,5.026,0,0,1,55,20H65a5,5,0,0,1,5,5V44a4,4,0,0,1-4,4H38" fill="#02a9f4"/>
+            <path id="Shape-7" data-name="Shape" d="M39,30h6a4.984,4.984,0,0,0,5-4.98A5.026,5.026,0,0,1,55,20H49a5.026,5.026,0,0,0-5,5.02A4.984,4.984,0,0,1,39,30Z" fill="#0377bc"/>
+            <path id="Shape-8" data-name="Shape" d="M82,0H76A12,12,0,0,1,88,12V60a4,4,0,0,1-4,4h6a4,4,0,0,0,4-4V12A12,12,0,0,0,82,0Z" fill="#0377bc"/>
+          </g>
+          <path id="Shape-9" data-name="Shape" d="M44,48V30" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" fill-rule="evenodd"/>
+          <path id="Shape-10" data-name="Shape" d="M36,36a4,4,0,0,0,4,4H50" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" fill-rule="evenodd"/>
+          <circle id="Oval" cx="4" cy="4" r="4" transform="translate(78 8)" fill="#607d8b"/>
+          <path id="Shape-11" data-name="Shape" d="M94,14h6a4,4,0,0,1,4,4v4a4,4,0,0,1-4,4H94Z" fill="#ffdc00"/>
+          <path id="Shape-12" data-name="Shape" d="M48.5,106a2,2,0,0,0,3.5-1.32V54a6,6,0,0,1,6-6H30a6,6,0,0,0-6,6v50.674A2,2,0,0,0,27.5,106a4.386,4.386,0,0,1,3.5-2c3.5,0,3.5,4,7,4s3.5-4,7-4A4.4,4.4,0,0,1,48.5,106Z" fill="#ffe0b2"/>
+          <path id="Shape-13" data-name="Shape" d="M52,48a6,6,0,0,0-6,6v50.148A5.188,5.188,0,0,1,48.5,106a2,2,0,0,0,3.5-1.32V54a6,6,0,0,1,6-6Z" fill="#dfc49c"/>
+        </g>
+        <g id="Icons">
+          <path id="Shape-14" data-name="Shape" d="M114,64H97.632A5.932,5.932,0,0,0,98,62V30h4a6,6,0,0,0,6-6V20a6,6,0,0,0-6-6H98A14.016,14.016,0,0,0,84,0H48A14.016,14.016,0,0,0,34,14V27a7,7,0,0,0,7,7h3v6H42a2,2,0,0,1-2-2,2,2,0,0,0-4,0,6,6,0,0,0,6,6h2v4H32a8,8,0,0,0-8,8v8H6a6,6,0,0,0-6,6v4a6,6,0,0,0,4,5.632V116a4,4,0,0,0,4,4h6a4,4,0,0,0,4-4V80h6v26.672a4,4,0,0,0,7,2.64c.87-1,1.214-1.312,1.988-1.312s1.124.322,2,1.316a6,6,0,0,0,10,0c.874-1,1.22-1.318,2-1.318s1.128.322,2,1.32A4,4,0,0,0,56,106.68V80h46v36a4,4,0,0,0,4,4h6a4,4,0,0,0,4-4V79.632A6,6,0,0,0,120,74V70A6,6,0,0,0,114,64ZM102,18a2,2,0,0,1,2,2v4a2,2,0,0,1-2,2H98V18ZM38,27V14A10.012,10.012,0,0,1,48,4H84A10.012,10.012,0,0,1,94,14V62a2,2,0,0,1-2,2H56V56a4,4,0,0,1,4-4h8a6,6,0,0,0,6-6V27a7,7,0,0,0-7-7H57a7.032,7.032,0,0,0-7,7.01A2.988,2.988,0,0,1,47,30H41a3,3,0,0,1-3-3ZM48,44h4a2,2,0,0,0,0-4H48V33.9a6.916,6.916,0,0,0,6-6.874A3.024,3.024,0,0,1,57,24H67a3,3,0,0,1,3,3V46a2,2,0,0,1-2,2H48ZM14,116H8V80h6Zm2-40H6a2,2,0,0,1-2-2V70a2,2,0,0,1,2-2H24v8Zm36,30.688L50.5,108l1.5-1.314a6.016,6.016,0,0,0-10.018,0c-.872,1-1.22,1.318-2,1.318s-1.122-.322-2-1.316A6.358,6.358,0,0,0,33,104a6.26,6.26,0,0,0-5,2.672V56a4,4,0,0,1,4-4H53.074A7.94,7.94,0,0,0,52,56V78.042l.012,28.66ZM112,116h-6V80h6Zm4-42a2,2,0,0,1-2,2H56V68h58a2,2,0,0,1,2,2Z"/>
+          <path id="Shape-15" data-name="Shape" d="M80,28h8a2,2,0,0,0,0-4H80a2,2,0,0,0,0,4Z"/>
+          <path id="Shape-16" data-name="Shape" d="M80,36h8a2,2,0,1,0,0-4H80a2,2,0,1,0,0,4Z"/>
+          <path id="Shape-17" data-name="Shape" d="M80,44h8a2,2,0,0,0,0-4H80a2,2,0,0,0,0,4Z"/>
+          <path id="Shape-18" data-name="Shape" d="M84,20a6,6,0,1,0-6-6A6,6,0,0,0,84,20Zm0-8a2,2,0,1,1-2,2A2,2,0,0,1,84,12Z"/>
+          <path id="Shape-19" data-name="Shape" d="M36,56a2,2,0,0,0-2,2v4a2,2,0,0,0,4,0V58A2,2,0,0,0,36,56Z"/>
+          <path id="Shape-20" data-name="Shape" d="M36,68a2,2,0,0,0-2,2v4a2,2,0,0,0,4,0V70A2,2,0,0,0,36,68Z"/>
+          <path id="Shape-21" data-name="Shape" d="M36,80a2,2,0,0,0-2,2v4a2,2,0,0,0,4,0V82A2,2,0,0,0,36,80Z"/>
+          <path id="Shape-22" data-name="Shape" d="M36,92a2,2,0,0,0-2,2v4a2,2,0,0,0,4,0V94A2,2,0,0,0,36,92Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
