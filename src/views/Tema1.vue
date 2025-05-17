@@ -17,10 +17,10 @@
       .row.justify-content-center.mb-5
         .col-sm-12.col-lg-4.d-none.d-lg-block
           img(src='@/assets/curso/temas/t1/1.png', alt='')
-        .col-sm-12.col-md-6.col-lg-4
-          img.w-15.mb-2(src='@/assets/curso/temas/t1/3.svg', alt='')
-          p.mb-0 La máquina de coser es uno de los inventos más representativos de la historia, cuya evolución ha sido significativa gracias a la incorporación de electricidad, rodamientos, metales y otros suministros que han mejorado su eficiencia y velocidad. Hasta hace 25 años, los equipos de esa época difícilmente podían considerarse verdaderas máquinas de coser, ya que su rendimiento apenas alcanzaba el 12 % del tiempo total de costura, mientras que el 88 % restante correspondía a movimientos manuales. Debido a su bajo nivel de automatización, estos dispositivos eran más bien herramientas de costura que máquinas propiamente dichas.
-        .col-sm-12.col-md-6.col-lg-4
+        .col-sm-12.col-lg-4
+          img.w-15.mb-2.d-none.d-lg-block(src='@/assets/curso/temas/t1/3.svg', alt='')
+          p.mb-cus La máquina de coser es uno de los inventos más representativos de la historia, cuya evolución ha sido significativa gracias a la incorporación de electricidad, rodamientos, metales y otros suministros que han mejorado su eficiencia y velocidad. Hasta hace 25 años, los equipos de esa época difícilmente podían considerarse verdaderas máquinas de coser, ya que su rendimiento apenas alcanzaba el 12 % del tiempo total de costura, mientras que el 88 % restante correspondía a movimientos manuales. Debido a su bajo nivel de automatización, estos dispositivos eran más bien herramientas de costura que máquinas propiamente dichas.
+        .col-sm-12.col-lg-4
           .titulo-sexto.color-acento-contenido
             p.mb-0 #[b Figura 1.] Máquina de coser 
           figure
@@ -55,7 +55,7 @@
       .row.justify-content-center.mb-5
         .col-sm-12.col-lg-4.d-none.d-lg-block
           img(src='@/assets/curso/temas/t1/6.png', alt='')
-        .col-sm-12.col-md-6.col-lg-4
+        .col-sm-12.col-md-12.col-lg-4
           p.mb-0 En la primera generación (tecnología convencional), el operario realiza el 83 % de las tareas manualmente. En la segunda generación (tecnología programable), la intervención manual se reduce al 60 %, mejorando la automatización. En la tercera generación (tecnología robótica), la automatización es máxima, mejorando la apariencia de las prendas y permitiendo que un solo operario supervise hasta tres máquinas, aumentando la eficiencia y reduciendo la carga de trabajo manual. 
         .col-sm-12.col-md-6.col-lg-4.d-none.d-lg-block
             img(src='@/assets/curso/temas/t1/7.svg', alt='')
@@ -102,9 +102,9 @@
       .row.justify-content-center.mb-5
         .col-sm-12.col-lg-4.d-none.d-lg-block
           img(src='@/assets/curso/temas/t1/9.png', alt='')
-        .col-sm-12.col-md-6.col-lg-4.bg-color-3.d-flex.justify-content-center.align-items-center
-          p.mb-0.px-4 Es una de las máquinas más utilizadas en la confección debido a las múltiples operaciones que se pueden realizar con ella. Esta máquina, de tecnología convencional, requiere una sola aguja y funciona con pedal y rodillera. La puntada se forma gracias a la acción conjunta de la aguja y el gancho giratorio. Se caracteriza por producir una puntada resistente, lo que la convierte en la máquina básica para confección.
-        .col-sm-12.col-md-6.col-lg-4
+        .col-sm-12.col-lg-4.bg-color-3.d-flex.justify-content-center.align-items-center.mb-cus
+          p.mb-0.px-4.py-2 Es una de las máquinas más utilizadas en la confección debido a las múltiples operaciones que se pueden realizar con ella. Esta máquina, de tecnología convencional, requiere una sola aguja y funciona con pedal y rodillera. La puntada se forma gracias a la acción conjunta de la aguja y el gancho giratorio. Se caracteriza por producir una puntada resistente, lo que la convierte en la máquina básica para confección.
+        .col-sm-12.col-lg-4
           .titulo-sexto.color-acento-contenido
             p.mb-0 #[b Figura 3.] Máquina plana
           figure
@@ -183,7 +183,7 @@
               p.mb-0 Situada debajo del pie prensatelas y tiene un orificio que permite el paso de la aguja.
 
       .row.justify-content-center.mb-5
-        .col-sm-12.col-lg-4
+        .col-sm-12.col-lg-4.mb-cus
           .titulo-sexto.color-acento-contenido
             p.mb-0 #[b Figura 5.] Máquina de coser 
           figure
@@ -280,7 +280,7 @@
                       figure
                         img(src='@/assets/curso/temas/t1/16.png', alt='')
                         figcaption.mb-0 Fuente: SENA, (2014).     
-        .col-sm-12.col-lg-3
+        .col-sm-12.col-lg-3.d-none.d-lg-block
           img(src='@/assets/curso/temas/t1/14.png', alt='')
 
 
@@ -292,7 +292,7 @@
       
       p.mb-5 La máquina plana es la más utilizada y cuenta con una amplia variedad de proveedores y referencias en el mercado, tanto en versiones de 1 como de 2 agujas.
       .row.justify-content-center.mb-5
-        .col-sm-12.col-lg-6
+        .col-sm-12.col-lg-6.mb-cus
           .bg-color-5.py-5.px-4.justify-content-center.align-items-center.br-1.hcard-1
             h4.text-center Máquina plana de 2 agujas
             p.mb-4.text-center Esta máquina duplica la puntada de la plana de una aguja, lo que permite ahorrar tiempo en ciertas operaciones. Es ampliamente utilizado en la confección de ropa interior, especialmente en la fabricación de brasieres.
@@ -320,7 +320,7 @@
                 p.mb-4 Este tipo de máquina es ampliamente utilizado en la confección de ropa interior debido a la elasticidad de su punta y su versatilidad en diversas operaciones. Se emplea tanto en entornos familiares como industriales.
                 p.mb-4 A diferencia de la máquina plana, la máquina en zigzag cuenta con un mecanismo que permite a la aguja moverse de izquierda a derecha en cada punta, generando el característico movimiento en zigzag.
                 p.mb-4 Existen varios tipos de zigzag, siendo los más utilizados el Z1 (zigzag sencillo) y el Z3 (zigzag triple). Es ideal para trabajar con tejidos ligeros y medianos.
-                p.mb-0 Se utiliza en la colocación de resortes en lencería, bordados y diversas aplicaciones, como la instalación de cierres, la unión de copas de guata, la fijación de elásticos y abrochaduras, el asentado de base elástica, la unión de copas base y la confección de acabados tipo rollito.
+                p.mb-0.mb-cus Se utiliza en la colocación de resortes en lencería, bordados y diversas aplicaciones, como la instalación de cierres, la unión de copas de guata, la fijación de elásticos y abrochaduras, el asentado de base elástica, la unión de copas base y la confección de acabados tipo rollito.
               .col-sm-12.col-lg-6
                 .titulo-sexto.color-primario
                   p.mb-0 #[b Figura 11.] Máquina de coser con puntada zigzag
@@ -336,7 +336,7 @@
       .row.justify-content-center.mb-5
         .col-sm-12.col-lg-4.d-none.d-lg-block
           img(src='@/assets/curso/temas/t1/20.png', alt='')
-        .col-sm-12.col-lg-4
+        .col-sm-12.col-lg-4.mb-cus
           .titulo-sexto.color-primario
             p.mb-0 #[b Figura 12.] Máquina enhebrada
           figure.mb-0
@@ -382,7 +382,7 @@
         h3.px-3.py-1 Regulación de la tensión del hilo de la aguja
       
       p.mb-3 Es fundamental que la tensión del hilo de la aguja sea adecuada para garantizar una puntada precisa. En este sentido, pueden presentarse los casos:
-      .bg-full-width.bg-fondo-1.mb-0.pt-5
+      .bg-full-width.bg-fondo-1.mb-0.pt-5.mb-cus
           .px-4.px-md-5.pb-md-3
             .row.justify-content-center.mb-0
               .col-sm-12.col-lg-4.d-none.d-lg-block
@@ -456,7 +456,7 @@
       .row.justify-content-center.mb-5
         .col-sm-12.col-lg-4.d-none.d-lg-block
           img(src='@/assets/curso/temas/t1/31.svg', alt='')
-        .col-sm-12.col-lg-4
+        .col-sm-12.col-lg-4.mb-cus
           .bg-color-7.p-4.justify-content-center.align-items-center
             p.mb-3 Para una mejor comprensión, se tomará como referencia el movimiento del gancho, el cual gira en sentido contrario a las manecillas del reloj, y su punta será el punto de orientación.
             p.mb-0 El proceso comienza cuando la aguja desciende desde su punto muerto superior, llevando el hilo a través del material hasta alcanzar su punto más bajo. En ese instante, la punta del gancho se ubica aproximadamente a las 2 en punto. Mientras tanto, la palanca tira-hilos desciende para suministrar hilo a la aguja, y los dientes de arrastre se encuentran en la parte inferior de la planchuela, moviéndose en dirección hacia el operario.
@@ -468,12 +468,12 @@
             figcaption.mb-0 Fuente: SENA, (2014). 
 
       .row.justify-content-center.mb-5.bg-color-8.p-4
-        .col-sm-12.col-lg-3
+        .col-sm-12.col-lg-3.mb-cus
           p.mb-0 La punta del gancho captura la lazada y la posición en el talón del gancho o en la ranura de alojamiento de la lazada. A partir de este punto, la referencia será la lazada ubicada en el talón del gancho. Cuando esta alcanza aproximadamente la posición de las 11 en el reloj, el desviador de hilo o deflector comienza a abrir la lazada, impidiendo que se enrede con la caja de la bobina. Mientras tanto, la aguja se retira del material, la palanca sigue descendiendo y el diente empieza a emerger de la planchuela, invirtiendo su movimiento.
         .col-sm-12.col-lg-4
           .titulo-sexto.color-primario
             p.mb-0 #[b Figura 18.] Formación de la puntada (etapas del ciclo de la costura)
-          figure.mb-0
+          figure.mb-0.mb-cus
             img.w-80.m-auto(src='@/assets/curso/temas/t1/33.png', alt='Ilustración del proceso de formación de la puntada en una máquina de coser. Se muestra la dirección de rotación del gancho y la interacción entre la aguja, el hilo y la bobina en diferentes etapas del ciclo de costura.')
             figcaption.mb-0 Fuente: SENA, (2014). 
         .col-sm-12.col-lg-5
@@ -512,7 +512,7 @@
               img.w-75.m-auto(src='@/assets/curso/temas/t1/34.svg', alt='')
             .col-sm-12.col-lg-10
               p.mb-0 La máquina fileteadora, también conocida como remalladora, es una herramienta esencial en la confección de prendas gracias al acabado profesional que proporciona. Su función principal es cortar, coser y filetear simultáneamente, logrando costuras más limpias y resistentes.
-          .bg-color-7.p-4
+          .bg-color-7.p-4.mb-cus
             p.mb-0 Es útil especialmente en la elaboración de prendas de tejido de punto, como ropa interior y deportiva, ya que permite una mayor elasticidad y durabilidad en las costuras. Diseñada con una estructura de cama plana, su punta sobrehilada recubre los bordes de la tela, evitando que se deshilache. Además, incorpora una puntada de cadeneta de seguridad, ideal para prendas que requieren mayor resistencia. Para un acabado preciso, cuenta con cuchillas que cortan los extremos de la tela mientras se cose.
         .col-sm-12.col-lg-4
           .titulo-sexto.color-primario
@@ -525,15 +525,15 @@
       .row.justify-content-center.mb-5
         .col-sm-12.col-lg-8
           p.mb-3 Esta máquina tiene dos pedales:
-          .tarjeta--container.row.mb-0
+          .tarjeta--container.row.mb-0.mb-cus
             .col-md.tarjeta.color-primario.p-4
               .row.justify-content-start.mb-4
-                .col-3.d-none.d-lg-block
+                .col-3
                   img(src='@/assets/curso/temas/t1/37.svg', alt='')
               p.mb-0 Izquierdo que acciona el pedal de la máquina.
             .col-md.tarjeta.bg-color-9.p-4
               .row.justify-content-start.mb-4
-                .col-3.d-none.d-lg-block
+                .col-3
                   img(src='@/assets/curso/temas/t1/38.svg', alt='')
               p.mb-0 Derecho que sirve para levantar el pie prensatelas.
         .col-sm-12.col-lg-4
@@ -622,7 +622,7 @@
       .row.mb-5
         .col-sm-12.col-lg-4.mb-cus
           .tarjeta-avatar
-            img.d-none.d-lg-block.w-25.m-auto(src='@/assets/curso/temas/t1/40.svg' alt='')
+            img.w-25.m-auto(src='@/assets/curso/temas/t1/40.svg' alt='')
             .tarjeta.bg-color-10
               .p-4
                 p.mb-0 #[b Fileteadora de 3 hilos:] la más sencilla es la de 3 hilos que es usada para rematar los bordes y cerrar piezas que no necesitan puntada de seguridad.
@@ -630,14 +630,14 @@
 
         .col-sm-12.col-lg-4.mb-cus
           .tarjeta-avatar
-            img.d-none.d-lg-block.w-25.m-auto(src='@/assets/curso/temas/t1/41.svg' alt='')
+            img.w-25.m-auto(src='@/assets/curso/temas/t1/41.svg' alt='')
             .tarjeta.bg-color-10
               .p-4
                 p.mb-0 #[b Fileteadora de 4 hilos:] esta máquina trabaja con 4 hilos y no realiza puntada de seguridad, hace doble zigzag. Es utilizada para coser material de tipo liviano como pijamas, pantys, pegar refuerzo de calzoncillos, entre otras.
 
         .col-sm-12.col-lg-4.mb-cus
           .tarjeta-avatar
-            img.d-none.d-lg-block.w-25.m-auto(src='@/assets/curso/temas/t1/42.svg' alt='')
+            img.w-25.m-auto(src='@/assets/curso/temas/t1/42.svg' alt='')
             .tarjeta.bg-color-10
               .p-4
                 p.mb-0 #[b Fileteadora de 5 hilos:] realiza el filete o zigzag y la puntada de seguridad simultáneamente ayudando a ahorrar tiempo al cerrar los costados, hombros, poner mangas, entre otras.
@@ -695,8 +695,8 @@
       .row.justify-content-center.mb-5
         .col-sm-12.col-lg-8.bg-color-11.p-4
           figure.mb-0
-            img.w-75.m-auto(src='@/assets/curso/temas/t1/48.svg', alt='Presenta los tipos de puntadas en máquinas fileteadoras según la cantidad de hilos y sus elementos mecánicos. Incluye clasificaciones desde 501 (1 hilo) hasta 515 (5 hilos), detallando la combinación de agujas, loopers y extensores utilizados en cada tipo de costura. Destaca que la puntada de 5 hilos (tipo 515) incluye dos agujas y tres loopers, formando una puntada de seguridad.')
-            figcaption.mb-0.w-75.m-auto.mt-1 Fuente: SENA, (2014). 
+            img.w-80.m-auto(src='@/assets/curso/temas/t1/48.svg', alt='Presenta los tipos de puntadas en máquinas fileteadoras según la cantidad de hilos y sus elementos mecánicos. Incluye clasificaciones desde 501 (1 hilo) hasta 515 (5 hilos), detallando la combinación de agujas, loopers y extensores utilizados en cada tipo de costura. Destaca que la puntada de 5 hilos (tipo 515) incluye dos agujas y tres loopers, formando una puntada de seguridad.')
+            figcaption.mb-0.w-80.m-auto.mt-1 Fuente: SENA, (2014). 
         .col-sm-12.col-lg-4.d-none.d-lg-block
           img(src='@/assets/curso/temas/t1/47.png', alt='')
             
@@ -750,7 +750,7 @@
       .row.mb-5
         .col-sm-12.col-lg-4.mb-cus
           .tarjeta-avatar
-            img.d-none.d-lg-block.w-25.m-auto(src='@/assets/curso/temas/t1/53.svg' alt='')
+            img.w-25.m-auto(src='@/assets/curso/temas/t1/53.svg' alt='')
             .tarjeta.bg-color-10
               .p-4
                 h4.text-center Alimentación simple
@@ -759,7 +759,7 @@
 
         .col-sm-12.col-lg-4.mb-cus
           .tarjeta-avatar
-            img.d-none.d-lg-block.w-25.m-auto(src='@/assets/curso/temas/t1/54.svg' alt='')
+            img.w-25.m-auto(src='@/assets/curso/temas/t1/54.svg' alt='')
             .tarjeta.bg-color-10
               .p-4
                 h4.text-center Alimentación diferencial
@@ -767,7 +767,7 @@
 
         .col-sm-12.col-lg-4.mb-cus
           .tarjeta-avatar
-            img.d-none.d-lg-block.w-25.m-auto(src='@/assets/curso/temas/t1/55.svg' alt='')
+            img.w-25.m-auto(src='@/assets/curso/temas/t1/55.svg' alt='')
             .tarjeta.bg-color-10
               .p-4
                 h4.text-center Alimentación asistida
@@ -819,7 +819,7 @@
         .col-sm-12.col-lg-4.d-none.d-lg-block
           img(src='@/assets/curso/temas/t1/56.png', alt='')
 
-      .row.justify-content-center.mb-5
+      .row.justify-content-center.mb-0
         .col-sm-12.col-lg-4.d-none.d-lg-block
           img(src='@/assets/curso/temas/t1/57.png', alt='')
         .col-sm-12.col-lg-8
@@ -845,16 +845,332 @@
 
 
 
-
-
       Separador
       #t_1_3.titulo-segundo.color-acento-contenido(data-aos='fade-right')
         h2 1.3 Máquina collarín o recubridora
+
+      p.mb-5 Elabora una puntada de cadeneta, con fines decorativos.
+      .row.justify-content-center.mb-5
+        .col-sm-12.col-lg-3.mb-cus
+          .titulo-sexto.color-primario
+            p.mb-0 #[b Figura 26.] Máquina collarín 
+          figure.mb-0
+            img(src='@/assets/curso/temas/t1/59.png', alt='Máquina collarín en funcionamiento, cosiendo una tela de color azul. Se pueden observar detalles como la aguja, las prensatelas y los hilos enhebrados, junto con un carrete de hilo azul en el fondo. La máquina realiza un acabado de sobrehilado en el borde de la tela para evitar que se deshilache.')
+            figcaption.mt-1 Fuente: SENA, (2014). 
+        .col-sm-12.col-lg-9
+          .titulo-sexto.color-primario
+            p.mb-0 #[b Figura 27.] Partes de la máquina collarín  
+          ImagenInfografica.color-acento-botones.mb-5
+            template(v-slot:imagen)
+              figure
+                img(src='@/assets/curso/temas/t1/60.png', alt='Diagrama de una máquina collarín con sus principales componentes. Se destacan partes como la palanca tira - hilo, la barra prensatela, la barra de la aguja, el pie prensatela, el visor del aceite, el volante, las guías de hilos y los tensores del hilo.')
+                figcaption.mb-0 Fuente: SENA, (2014).
+            .tarjeta.bg-color-4.p-3(x="36%" y="45%" numero="")
+              .h5.mb-2 Barra de la aguja
+              p.mb-0 Es la que sostiene la aguja y permite el movimiento.
+            .tarjeta.bg-color-4.p-3(x="36%" y="32%" numero="")
+              .h5.mb-2 Barra del prensatela
+              p.mb-0 Lugar donde se fija el pie del prensatela por medio de un tornillo.
+            .tarjeta.bg-color-4.p-3(x="70%" y="40%" numero="")
+              .h5.mb-2 Guía hilos
+              p.mb-0 Son pequeños alambres que dirigen el hilo.
+            .tarjeta.bg-color-4.p-3(x="36%" y="20%" numero="")
+              .h5.mb-2 Palanca tira-hilo
+              p.mb-0 Suministra hilo a la aguja, recupera el hilo sobrante y tensiona el hilo durante la formación de la puntada.
+            .tarjeta.bg-color-4.p-3(x="36%" y="55%" numero="")
+              .h5.mb-2 Pie prensatela
+              p.mb-0 La función es hacer presión y sostener la tela contra la planchuela para que no se mueva.
+            .tarjeta.bg-color-4.p-3(x="72%" y="46%" numero="")
+              .h5.mb-2 Tensores del hilo de la aguja
+              p.mb-0 Tensiona el hilo para que la puntada sea correcta.
+            .tarjeta.bg-color-4.p-3(x="53%" y="20%" numero="")
+              .h5.mb-2 Visor del aceite
+              p.mb-0 Indica el nivel de aceite que tiene la máquina.
+            .tarjeta.bg-color-4.p-3(x="78%" y="30%" numero="")
+              .h5.mb-2 Volante
+              p.mb-0 Es la rueda que recibe el movimiento de la correa y lo transmite a los mecanismos interiores del cabezote. También puede ser movido por la mano cuando se va a levantar la aguja.
+              
+      .row.align-items-center.mb-4.titulo-icono(data-aos="fade-left")
+        .col-auto.titulo-icono-img
+          img(src='@/assets/bg/1.svg', alt='')
+        .col
+          h3.mb-0.titulo-icono-text.px-0.py-2 Tipos de máquina collarín
+      
+      .row.justify-content-center.mb-5
+        .col-sm-12.col-lg-8
+          p.mb-4 En el mercado se encuentran varios tipos de máquina collarín, la más utilizada es:
+          p.mb-3 #[b Collarín sesgador:] es una máquina recubridora con una guía para pegar sesgo.
+          p.mb-4 Algunas de las operaciones que se hacen en esta máquina son:
+          ul.lista-ul--color.mb-3
+            li.d-flex
+              i.fas.fa-check-circle.bg-color-1
+              p.mb-0  Sesgar cuello de camiseta.
+            li.d-flex
+              i.fas.fa-check-circle.bg-color-1
+              p.mb-0  Sesgar sisas de pijamas.
+            li.d-flex
+              i.fas.fa-check-circle.bg-color-1
+              p.mb-0  Sesgar piernas de panty.
+            li.d-flex.mb-0
+              i.fas.fa-check-circle.bg-color-1
+              p.mb-0 Collarín encauchadora o resortadora.
+          .bg-color-13.p-3
+            p.mb-0 Es una máquina collarín con un mecanismo llamado pullers que permite dosificar y transportar el elástico.
+        .col-sm-12.col-lg-4.d-none.d-lg-block
+          img(src='@/assets/curso/temas/t1/61.png', alt='')
+
+
+
+      .bg-full-width.bg-fondo-1.mb-0.pt-5
+        .px-4.px-md-5.pb-md-3
+          .row.justify-content-center.mb-0.align-items-center
+            .col-sm-12.col-lg-8.mb-cus
+              .row.align-items-center.mb-4.titulo-icono
+                .col-auto.titulo-icono-img
+                  img(src='@/assets/bg/1.svg', alt='')
+                .col
+                  h3.mb-0.titulo-icono-text.px-0.py-2 Enhebrados de la máquina collarín
+
+              p.mb-5 El correcto enhebrado de una máquina collarín es fundamental para garantizar una costura uniforme y sin fallos. La figura presenta el recorrido del hilo desde los carretes hasta la aguja, pasando por los tensores y guías hilos, elementos clave para mantener la tensión adecuada. Comprender este proceso es esencial para evitar problemas como roturas de hilo o puntadas irregulares, asegurando así un trabajo de calidad en la confección.
+
+              .row.align-items-center.mb-4.titulo-icono(data-aos="fade-left")
+                .col-auto.titulo-icono-img
+                  img(src='@/assets/bg/1.svg', alt='')
+                .col
+                  h3.mb-0.titulo-icono-text.px-0.py-2 Elementos mecánicos para formar la puntada
+              p.mb-0 Puede realizar puntadas de clase 400 y 600.
+              p.mb-0 La recubridora conocida como interlock, produce una puntada que se caracteriza por ser igual en su parte superior a la que produce la máquina plana y en su parte inferior se observa una cadeneta. La puntada de cadeneta tiene la característica de ser elástica. Esto mejora la calidad de algunas operaciones en los procesos de ensamble de prendas de vestir.
+
+            .col-sm-12.col-lg-4.mb-cus
+              .titulo-sexto.color-primario
+                p.mb-0 #[b Figura 28.]  Enhebrado máquina collarín
+              figure.mb-0
+                img(src='@/assets/curso/temas/t1/62.png', alt='Máquina collarín con su sistema de enhebrado resaltado mediante líneas y puntos de referencia. Se pueden observar los carretes de hilo, los tensores, las guías de hilos y el recorrido que sigue el hilo hasta la aguja. Este diagrama facilita la comprensión del correcto enhebrado de la máquina para lograr una costura eficiente y precisa.')
+                figcaption.mt-1 Fuente: SENA, (2014). 
+
+
+      .row.justify-content-center.align-items-center.mb-5
+        .col-sm-12.col-lg-10
+          .titulo-sexto.color-primario
+            p.mb-0 #[b Figura 29.]  Elementos mecánicos (recubridora)
+          .bg-color-11.p-5
+            figure.mb-0
+              img.w-80.m-auto(src='@/assets/curso/temas/t1/63.svg', alt='Se presentan tres tipos: 602, 605 y 607, cada uno con una cantidad específica de agujas, looper y recubridor. La columna final muestra esquemas visuales de las puntas generadas por cada tipo de configuración.')
+              figcaption.mt-1.w-80.m-auto Fuente: SENA, (2017). 
+
+      .row.align-items-center.mb-4.titulo-icono
+        .col-auto.titulo-icono-img
+          img(src='@/assets/bg/1.svg', alt='')
+        .col
+          h3.mb-0.titulo-icono-text.px-0.py-2 Tipos de lubricación y sistema de alimentación
+      .row.justify-content-center.mb-5.align-items-center
+        .col-sm-12.col-lg-1.d-none.d-lg-block
+          img(src='@/assets/curso/temas/t1/64.svg', alt='')
+        .col-sm-12.col-lg-11
+            p.mb-0 La lubricación en estas máquinas es automática, mientras que el sistema de alimentación puede ser oscilante sencillo o, en algunos casos, diferencial. Se pueden utilizar hilos tanto naturales como artificiales. En cuanto a las agujas, las máquinas de cadeneta suelen emplear modelos rectos y largos, como 149 x 3, B 63, 121, UY 113 y 62 x 57.
+      .bg-full-width.bg-fondo-1.mb-0.pt-5
+        .px-4.px-md-5.pb-md-3
+          .row.justify-content-center.mb-0.align-items-center
+            .col-sm-12.col-lg-8
+              .row.align-items-center.mb-4.titulo-icono
+                .col-auto.titulo-icono-img
+                  img(src='@/assets/bg/1.svg', alt='')
+                .col
+                  h3.mb-0.titulo-icono-text.px-0.py-2 Sistema de accionamiento
+              p.mb-4 Generalmente las máquinas de cadeneta están construidas con los siguientes mecanismos:
+              .row.justify-content-center.mb-5
+                .col-sm-12.col-lg-6
+                  ol.lista-ol--cuadro.lista-ol--separador
+                    li.d-flex 
+                      .lista-ol--cuadro__vineta
+                        span A
+                      | Mecanismo de lubricación.
+                    li.d-flex 
+                      .lista-ol--cuadro__vineta
+                        span B
+                      | Mecanismo de barra de aguja.
+                    li.d-flex 
+                      .lista-ol--cuadro__vineta
+                        span C
+                      | Mecanismo del prensatela.
+                .col-sm-12.col-lg-6
+                  ol.lista-ol--cuadro.lista-ol--separador
+                    li.d-flex 
+                      .lista-ol--cuadro__vineta
+                        span D
+                      | Mecanismo alimentador.
+                    li.d-flex 
+                      .lista-ol--cuadro__vineta
+                        span E
+                      | Mecanismo del loopers.
+                    li.d-flex 
+                      .lista-ol--cuadro__vineta
+                        span F
+                      | Guía hilos y tira-hilos (dosificadores de hilo).
+              p.mb-4 Adicionalmente se podrán encontrar los siguientes mecanismos:
+              .row.justify-content-center.mb-5
+                .col-sm-12.col-lg-6
+                  ol.lista-ol--cuadro.lista-ol--separador
+                    li.d-flex 
+                      .lista-ol--cuadro__vineta
+                        span G
+                      |  Mecanismo del recubridor.
+                    li.d-flex 
+                      .lista-ol--cuadro__vineta
+                        span H
+                      | Mecanismo del corte de material.
+                .col-sm-12.col-lg-6
+                  ol.lista-ol--cuadro.lista-ol--separador
+                    li.d-flex 
+                      .lista-ol--cuadro__vineta
+                        span I
+                      | Mecanismo del abridor de lazada.
+                    li.d-flex 
+                      .lista-ol--cuadro__vineta
+                        span J
+                      span Mecanismo del puller:
+                  ul.lista-ul--color.mb-3.ml-cus-1
+                    li.d-flex
+                      i.fas.fa-check-circle.bg-color-1
+                      p.mb-0 Trasero (auxiliar de transporte).
+                    li.d-flex
+                      i.fas.fa-check-circle.bg-color-1
+                      p.mb-0 Delantero (dosificador de elástico).
+            .col-sm-12.col-lg-4.d-none.d-lg-block
+                  img(src='@/assets/curso/temas/t1/65.png', alt='')
+
+
+
+
+
+
+
+
+
+
       Separador
       #t_1_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
         h2 1.4 Máquina presilladora
       
-        
+      p.mb-4  Esta máquina pertenece a la serie de doble despunte su puntada es muy utilizada para reforzar las costuras, este tipo de máquina ha evolucionado de tal forma que ya es posible realizar una cantidad de operaciones que antes no eran posibles de realizar.
+      .bg-full-width.bg-fondo-1.mb-0.pt-5
+        .px-4.px-md-5.pb-md-3
+          .row.justify-content-center.mb-5
+            .col-sm-12.col-lg-10
+              .titulo-sexto.color-primario
+                p.mb-0 #[b Figura 30.] Partes  máquina presilladora
+              ImagenInfografica.color-acento-botones.mb-5
+                template(v-slot:imagen)
+                  figure
+                    img(src='@/assets/curso/temas/t1/66.png', alt='Se destacan la palanca tira - hilo, el tensor del hilo, la barra prensa tela y el pie prensatelas en la parte frontal. También se señalan la guía de hilos en la parte superior, el devanador en la parte trasera, y la cama en forma de codo junto con el gancho o garfio en la parte inferior.')
+                    figcaption.mb-0 Fuente: SENA, (2014).
+                .tarjeta.bg-color-4.p-3(x="72.5%" y="29%" numero="")
+                  .h5.mb-2 Devanador
+                  p.mb-0 Sirve para enrollar el hilo que necesita la bobina.
+                .tarjeta.bg-color-4.p-3(x="31.5%" y="49.5%" numero="")
+                  .h5.mb-2 Barra del prensatela
+                  p.mb-0 Lugar donde se fija el pie del prénsatela por medio de un tornillo.
+                .tarjeta.bg-color-4.p-3(x="27%" y="68%" numero="")
+                  .h5.mb-2 Cama en forma de codo
+                  p.mb-0 Permite el apoyo del material.
+                .tarjeta.bg-color-4.p-3(x="36.5%" y="45.5%" numero="")
+                  .h5.mb-2 Gancho o garfio
+                  p.mb-0 Soporta el pie prensatela.
+                .tarjeta.bg-color-4.p-3(x="33.5%" y="20%" numero="")
+                  .h5.mb-2 Guía hilos
+                  p.mb-0 Son pequeños alambres que dirigen el hilo.
+                .tarjeta.bg-color-4.p-3(x="29%" y="20%" numero="")
+                  .h5.mb-2 Palanca tira-hilo
+                  p.mb-0 Tira el hilo procedente del portahilos para suministrarlo a la aguja.
+                .tarjeta.bg-color-4.p-3(x="26%" y="58%" numero="")
+                  .h5.mb-2 Pie prensatela
+                  p.mb-0 La función es hacer presión y sostener la tela contra la planchuela para que no se mueva.
+                .tarjeta.bg-color-4.p-3(x="31.5%" y="38%" numero="")
+                  .h5.mb-2 Tensor del hilo de la aguja
+                  p.mb-0 Tensiona el hilo para que la puntada sea correcta.
+      .row.align-items-center.mb-4.titulo-icono
+        .col-auto.titulo-icono-img
+          img(src='@/assets/bg/1.svg', alt='')
+        .col
+          h3.mb-0.titulo-icono-text.px-0.py-2 Enhebrados de la máquina
+      p.mb-4 En esta figura se encuentra la forma de enhebrar la máquina presilladora.
+      .row.justify-content-center.mb-5
+        .col-sm-12.col-lg-3.mb-cus
+          .titulo-sexto.color-primario
+            p.mb-0 #[b Figura 31.] Enhebrado de  la máquina
+          figure.mb-0
+            img(src='@/assets/curso/temas/t1/67.png', alt='Técnica del enhebrado de una máquina de coser industrial, donde se señalan los puntos clave por los que debe pasar el hilo para su correcto funcionamiento. Se observan componentes como el portacarrete, tensores, guía hilos y la aguja.')
+            figcaption.mt-1 Fuente: SENA, (2014). 
+
+        .col-sm-12.col-lg-9
+          .bg-color-13.px-4.py-5
+            .row.justify-content-center.mb-3
+              .col-sm-12.col-lg-2.d-none.d-lg-block
+                img.w-75.m-auto(src='@/assets/curso/temas/t1/68.svg', alt='')
+              .col-sm-12.col-lg-10
+                  p.mb-0 El recorrido del hilo comienza en los carretes ubicados en la parte superior trasera de la máquina y sigue a través de una serie de guías de hilos y tensores que regulan la tensión. Luego, el hilo pasa por la palanca tira-hilo, que ayuda a mantener un flujo uniforme durante la costura.
+            p.mb-0 Desde la palanca tira-hilo, el hilo desciende hacia la barra de la aguja, atravesando más guías antes de llegar al ojo de la aguja. Dependiendo del tipo de puntada, el hilo interactúa con el garfio o gancho, donde se forma la cadeneta o se entrelaza con otros hilos. En el caso de máquinas con múltiples hilos, el enhebrado se distribuye entre diferentes loopers y guías para lograr puntadas de refuerzo o decorativas.
+      .row.justify-content-center.mb-5
+        .col-sm-12.col-lg-8
+          .row.align-items-center.mb-5.titulo-icono
+            .col-auto.titulo-icono-img
+              img(src='@/assets/bg/1.svg', alt='')
+            .col
+              h3.mb-0.titulo-icono-text.px-0.py-2 Elementos mecánicos para formar la puntada
+          p.mb-3 La puntada se forma mediante la interacción entre la aguja y la lanzadera. Inicialmente, se genera una punta recta, y al retroceder, se forma el patrón de zigzag. El proceso de costura se desarrolla en ciclos, permitiendo el ajuste manual del ancho y largo de la presilla según las necesidades del usuario.
+          p.mb-5 Este tipo de puntada corresponde a la clasificación 301 y puede realizarse con hilos naturales o sintéticos, dependiendo del tipo de material y acabado deseado
+          .row.align-items-center.mb-5.titulo-icono
+            .col-auto.titulo-icono-img
+              img(src='@/assets/bg/1.svg', alt='')
+            .col
+              h3.mb-0.titulo-icono-text.px-0.py-2 Tipos de lubricación y sistema de alimentación
+          p.mb-0 Lubricación es manual y el sistema de alimentación es oscilante sencillo.
+        .col-sm-12.col-lg-4.d-none.d-lg-block
+          img(src='@/assets/curso/temas/t1/69.png', alt='')
+
+
+      .bg-full-width.bg-fondo-1.mb-0.pt-5
+        .px-4.px-md-5.pb-md-3
+          .row.justify-content-center.mb-0
+            .col-12
+              .row.align-items-center.mb-5.titulo-icono
+                .col-auto.titulo-icono-img
+                  img(src='@/assets/bg/1.svg', alt='')
+                .col
+                  h3.mb-0.titulo-icono-text.px-0.py-2 Sistema de accionamiento
+              .row.justify-content-center.mb-5.align-items-center
+                .col-sm-12.col-lg-4.d-none.d-lg-block
+                  img(src='@/assets/curso/temas/t1/70.png', alt='')
+                .col-sm-12.col-lg-8
+                  p.mb-4 Mecanismos que la componen:
+                  .row.justify-content-center.mb-0
+                    .col-sm-12.col-lg-6
+                      ol.lista-ol--cuadro.lista-ol--separador
+                        li.d-flex 
+                          .lista-ol--cuadro__vineta
+                            span A 
+                          | Mecanismos de parada.
+                        li.d-flex 
+                          .lista-ol--cuadro__vineta
+                            span B
+                          | Barra de agujas.
+                        li.d-flex 
+                          .lista-ol--cuadro__vineta
+                            span C
+                          | De lanzadera.
+                    .col-sm-12.col-lg-6
+                      ol.lista-ol--cuadro.lista-ol--separador
+                        li.d-flex 
+                          .lista-ol--cuadro__vineta
+                            span D
+                          | De prensatelas.
+                        li.d-flex 
+                          .lista-ol--cuadro__vineta
+                            span E
+                          | Abridor de tensor.
+
+
+
 
   </template>
 

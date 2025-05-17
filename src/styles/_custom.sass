@@ -69,6 +69,9 @@
     top: 10% !important
 .tarjeta-avatar .tarjeta 
     width: 100% !important
+.lista-ol--cuadro__vineta
+    color: $color-sistema-texto !important
+    font-weight: bold !important
 /**************************************************************/
 /***CUSTOM STYLES***/
 /**************************************************************/
@@ -125,7 +128,9 @@
     border-radius: 10px !important
   &-2
     border-top-right-radius: 70px !important
-
+.ml-cus
+  &-1
+    margin-left: 30px !important
       
 .hcard
   &-1
@@ -175,6 +180,12 @@
 @media screen and (max-width: $bp-min-md)
   .mb-cus
     margin-bottom: 2em  !important  
+  .w-80
+    width: 100% !important
+  .tarjeta-avatar > img 
+    top: 5% !important;
+    width: 20% !important
+
   
 
 //// MOBILE 576--------------------------------------
@@ -182,3 +193,12 @@
   .mb-cus
     margin-bottom: 2em  !important
   
+  .tarjeta--container > .tarjeta
+    border-radius: 20px !important
+    margin-bottom: 1em !important
+  .titulo-icono
+    left: 0px;
+    &-text
+      margin-left: 10px;
+    &-img
+      display: none !important
