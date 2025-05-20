@@ -74,6 +74,18 @@
     font-weight: bold !important
 figcaption 
     background-color: #F6F6F6 !important
+.lista-ul--color li > i:first-of-type 
+    color: $color-primario !important;
+
+.slyder-a__bullets__item--active
+    background-color: $color-acento-contenido !important
+    border-color: $color-acento-contenido !important
+.slyder-a__bullets__item 
+    background-color: #EAF2C8;
+    border: 1px solid #EAF2C8;
+.slyder-a__btn--sigt, .slyder-a__btn--atrs 
+    background-color: $color-acento-botones !important
+    border: 1px solid $color-acento-botones !important
 /**************************************************************/
 /***CUSTOM STYLES***/
 /**************************************************************/
@@ -85,19 +97,23 @@ figcaption
   width: 95% !important
 .w-80
   width: 80% !important
-
+.p-full-width
+  padding: 3rem 2.5rem!important;
 .bg-full-width
   background-size: cover
   background-repeat: no-repeat
   background-position: bottom
   margin-inline: -3.3rem
-  @media screen and (max-width: $bp-max-sm)
-    padding-left: 1.5rem
-    padding-right: 1.5rem
 .bg-fondo
   &-1
     background-image: url("../assets/bg/2.svg") !important
     background-position: bottom
+  &-2
+    background-image: url("../assets/bg/3.svg") !important
+    background-position: center
+    background-size: cover
+    background-repeat: no-repeat
+    border-radius: 45px;
 .bg-color
   &-1
     color: $color-primario !important
@@ -127,12 +143,20 @@ figcaption
     background-color: #B4D5F6 !important
   &-13
     background-color: #F2F7DE !important
+  &-14
+    background-color: #FDDDE1 !important
 
 .br
   &-1
     border-radius: 10px !important
   &-2
     border-top-right-radius: 70px !important
+  &-3
+    border-top: 1px solid #AFAFAF
+    border-bottom: 1px solid #AFAFAF
+  &-4
+    border-radius: 25px !important
+
 .ml-cus
   &-1
     margin-left: 30px !important
