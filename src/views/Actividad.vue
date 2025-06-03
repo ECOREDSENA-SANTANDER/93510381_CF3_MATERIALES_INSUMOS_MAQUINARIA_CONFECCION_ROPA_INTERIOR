@@ -21,7 +21,7 @@ export default {
         'Maquinaria, herramientas y ajustes para la confección de ropa interior.',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Evaluar la comprensión de los conceptos fundamentales sobre maquinaria, herramientas y ajustes para la confección de ropa interior.',
+        '<b> Objetivo:</b> evaluar la comprensión de los conceptos fundamentales sobre maquinaria, herramientas y ajustes para la confección de ropa interior.',
       barajarPreguntas: false,
       titulo_aprobado: '¡Felicidades!',
       titulo_reprobado: '¡Vuelva a intentarlo!',

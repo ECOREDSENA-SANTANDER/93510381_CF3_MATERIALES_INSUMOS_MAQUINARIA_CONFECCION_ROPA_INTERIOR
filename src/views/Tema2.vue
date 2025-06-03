@@ -57,7 +57,7 @@
           .titulo-sexto.color-primario
             p.mb-0 #[b Figura 33.] Partes de la aguja
           figure.mb-0
-            img(src='@/assets/curso/temas/t2/5.png', alt='Partes de una aguja de máquina de coser, con etiquetas que identifican componentes como el tope, cabo, canal, ojo y punta.')
+            img(src='@/assets/curso/temas/t2/5.svg', alt='Partes de una aguja de máquina de coser, con etiquetas que identifican componentes como el tope, cabo, canal, ojo y punta.')
             figcaption.mt-1 Fuente: SENA, (2014). 
           .mt-2.d-none.d-lg-block
             img(src='@/assets/curso/temas/t2/6.png', alt='')
@@ -84,7 +84,7 @@
             div(titulo='Ranura larga')
               .row.mb-0
                 .col-12
-                  p.mb-0 Canal ubicado a lo largo de la hoja que protege el hilo y facilita su conducción dentro y fuera del material. En las agujas diseñadas para máquinas de looper (cadeneta y fileteadoras), existe una segunda ranura en el lado opuesto, lo que permite un movimiento más fluido del hilo en ambos lados mientras la aguja atraviesa el material. Toda aguja debe enhebrarse por el lado de la ranura larga.
+                  p.mb-0 Canal ubicado a lo largo de la hoja que protege el hilo y facilita su conducción dentro y fuera del material. En las agujas diseñadas para máquinas de #[i looper] (cadeneta y fileteadoras), existe una segunda ranura en el lado opuesto, lo que permite un movimiento más fluido del hilo en ambos lados mientras la aguja atraviesa el material. Toda aguja debe enhebrarse por el lado de la ranura larga.
             div(titulo='Ojo')
               .row.mb-0
                 .col-12
@@ -92,7 +92,7 @@
             div(titulo='Muesca o hendidura')
               .row.mb-0
                 .col-12
-                  p.mb-0 Rebaje en la cara de la aguja, ubicado encima del ojo. Su forma y longitud pueden variar, permitiendo un mejor ajuste del tomador de lazada (gancho, lanzadera o looper) en relación con la aguja. Esto facilita la recogida de la lazada y reduce los fallos en la puntada, especialmente en condiciones difíciles. La muesca se encuentra en el lado opuesto de la ranura larga.
+                  p.mb-0 Rebaje en la cara de la aguja, ubicado encima del ojo. Su forma y longitud pueden variar, permitiendo un mejor ajuste del tomador de lazada (gancho, lanzadera o #[i looper]) en relación con la aguja. Esto facilita la recogida de la lazada y reduce los fallos en la puntada, especialmente en condiciones difíciles. La muesca se encuentra en el lado opuesto de la ranura larga.
 
             div(titulo='Punta')
               .row.mb-0
@@ -190,7 +190,7 @@
         .col-sm-12.col-lg-9
           p.mb-3 Durante la costura, la aguja alcanza velocidades extremadamente altas al penetrar el material. Para lograr una perforación eficiente, las fibras del tejido deben permitir su desplazamiento en un tiempo de apenas 0,00003 segundos. A mayor grosor de la aguja, mayor será el desplazamiento de las fibras, aumentando el riesgo de daño en el tejido. Por ello, se recomienda utilizar agujas lo más delgadas posible para minimizar el deterioro de la prenda. Sin embargo, las agujas delgadas pueden generar problemas como costuras irregulares, saltos de puntadas, roturas de hilo y mayor fragilidad de la aguja.
           .bg-color-13.p-4
-            p.mb-4 El tipo de tejido también influye en el comportamiento de la aguja. Al coser denim o jean, pueden producirse cortes en las fibras que solo se evidencian después del lavado. En los tejidos de punto, es común encontrar mallas dañadas o fruncidas debido al desplazamiento de las microfibras.
+            p.mb-4 El tipo de tejido también influye en el comportamiento de la aguja. Al coser #[i denim] o #[i jean], pueden producirse cortes en las fibras que solo se evidencian después del lavado. En los tejidos de punto, es común encontrar mallas dañadas o fruncidas debido al desplazamiento de las microfibras.
             .row.justify-content-center.mb-0
               .col-sm-12.col-lg-11
                   p.mb-0 Además, el funcionamiento de la máquina de coser también afecta el desempeño de la aguja. En una máquina que opera a 5.000 revoluciones por minuto, un punto marcado en el hilo pasará por el ojo de la aguja aproximadamente 70 veces antes de ser fijado en el material, lo que demuestra la precisión y exigencia del proceso de costura.
@@ -204,8 +204,8 @@
           img(src='@/assets/curso/temas/t2/17.png', alt='')
         .col-sm-12.col-lg-9
           p.mb-3 A igual velocidad, el hilo de la aguja de coser es acelerado de 0 a 120 kilómetros por hora en menos de un milisegundo.
-          p.mb-4 El impacto con la tela o material de costura, que puede generar desviación de la aguja. En las máquinas de cadeneta, cada vez que la aguja penetra, hace contacto con el looper, siendo necesario usar agujas con punta de bola.
-          p.mb-0 Para reducir estos riesgos, se requiere utilizar agujas diseñadas de acuerdo con la exigencia y necesidades que tiene cada aplicación, con una mejor estabilidad y con ranura amplia para permita el paso del hilo hasta el ojo, permitiendo además la posibilidad de reducir el diámetro al inmediatamente menor.
+          p.mb-4 El impacto con la tela o material de costura, que puede generar desviación de la aguja. En las máquinas de cadeneta, cada vez que la aguja penetra, hace contacto con el #[i looper], siendo necesario usar agujas con punta de bola.
+          p.mb-0 Para reducir estos riesgos, se requiere utilizar agujas diseñadas de acuerdo con la exigencia y necesidades que tiene cada aplicación, con una mejor estabilidad y con ranura amplia que permita el paso del hilo hasta el ojo, permitiendo además la posibilidad de reducir el diámetro al inmediatamente menor.
       
       .bg-full-width.bg-fondo-1.mb-0.pt-5
         .px-4.px-md-5.pb-md-3

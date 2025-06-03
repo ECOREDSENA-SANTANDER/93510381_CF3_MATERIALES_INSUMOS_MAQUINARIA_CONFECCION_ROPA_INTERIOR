@@ -296,6 +296,10 @@ export default {
       referencia:
         'SENA. (2013). Mecánica, trazo, corte y manejo de máquinas de confección de ropa interior y deportiva. Centro de Formación en Diseño, Confección y Moda. Regional Antioquia.',
     },
+    {
+      referencia:
+        'SENA. (2014). Manual de operación de máquinas de coser industrial (p. 40).',
+    },
   ],
   creditos: [
     {
