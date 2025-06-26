@@ -330,6 +330,11 @@ export default {
           cargo: 'Asesora pedagógica',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
+        {
+          nombre: 'Erika Fernanda Mejía Pinzón',
+          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
       ],
     },
     {

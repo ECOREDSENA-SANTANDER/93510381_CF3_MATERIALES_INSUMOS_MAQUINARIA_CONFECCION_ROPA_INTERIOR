@@ -590,14 +590,14 @@
         img(src='@/assets/curso/temas/t3/48.svg', alt='Puntadas de la serie 500: tipo 501 (filete de un solo hilo), y tipos 502 y 503 (filete de dos hilos), utilizados para sobrehilado y unión de tejidos.')
         figcaption.mt-1 Fuente: SENA, (2014).
 
-      p.mb-4 Es el más común y tiene un consumo de 14 cm por cada cm de material cosido.
-      .row.justify-content-center.align-items-center.mb-5
+      .row.mb-5
         .col-sm-12.col-lg-3.mb-cus
           .titulo-sexto.color-acento-contenido
             p.mb-0 #[b Figura 53.] Serie  500 tipo 504: filete de tres hilos
-          figure.mb-0
+          figure.mb-3
             img(src='@/assets/curso/temas/t3/49.svg', alt='Esquema de la puntada serie 500 tipo 504, también llamado filete de tres hilos, utilizado para sobrehilado y acabado de bordes en tejidos elásticos o de punto.')
             figcaption.mt-1 Fuente: SENA, (2014).
+          p.mb-4 Es el más común y tiene un consumo de 14 cm por cada cm de material cosido.
 
         .col-sm-12.col-lg-3.mb-cus
           .titulo-sexto.color-acento-contenido
@@ -682,7 +682,7 @@
       .titulo-sexto.color-acento-contenido
         p.mb-0 #[b Figura 61.]  Puntadas  (#[i panty])
       .row.justify-content-center.mb-0.bg-color-3.p-4
-        .col-sm-12.col-lg-8
+        .col-sm-12.col-lg-10
           figure.mb-0
             img(src='@/assets/curso/temas/t3/59.svg', alt='Prenda de ropa interior femenina (#[i panty]) que señala con números del 1 al 4 las zonas donde se aplican distintos tipos de puntadas. Estos números describen el tipo de puntada, la máquina utilizada y su código correspondiente.')
       figcaption.mt-1.mb-5 Fuente: SENA, (2017). 
@@ -691,7 +691,7 @@
       .titulo-sexto.color-acento-contenido
         p.mb-0 #[b Figura 62.]  Puntadas  (brasier)
       .row.justify-content-center.mb-0.bg-color-3.p-4
-        .col-sm-12.col-lg-8
+        .col-sm-12.col-lg-10
           figure.mb-0
             img(src='@/assets/curso/temas/t3/60.svg', alt='Esquema técnico de un brasier donde se indican con números del 1 al 6 las zonas específicas de aplicación de diferentes tipos de puntadas. A la derecha, relaciona cada número con el tipo de máquina, tipo de puntada y su código.')
       figcaption.mt-1.mb-5 Fuente: SENA, (2017).
@@ -699,7 +699,7 @@
       .titulo-sexto.color-acento-contenido
         p.mb-0 #[b Figura 63.] Puntadas  (camisilla)
       .row.justify-content-center.mb-0.bg-color-3.p-4
-        .col-sm-12.col-lg-8
+        .col-sm-12.col-lg-10
           figure.mb-0
             img(src='@/assets/curso/temas/t3/61.svg', alt='Esquema técnico de una camisilla, con zonas numeradas del 1 al 5 que indican la ubicación de distintos tipos de puntadas empleadas en su confección. A la derecha, se asocia cada número con el tipo de puntadas, la máquina utilizada y el código.')
       figcaption.mt-1.mb-5 Fuente: SENA, (2017).

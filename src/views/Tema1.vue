@@ -297,7 +297,7 @@
             .titulo-sexto.color-primario
               p.mb-0 #[b Figura 9.] Máquina plana de 2 agujas  
             figure.mb-4
-              img(src='@/assets/curso/temas/t1/17.png', alt='Máquina de coser industrial en funcionamiento, utilizada para confección de prendas. La imagen muestra una costura con doble aguja sobre tela blanca, guiada manualmente por una persona.')
+              img(src='@/assets/curso/temas/t1/17.png', alt='Máquina de coser industrial en funcionamiento, utilizada para confección de prendas.')
               figcaption.mb-0 Fuente: https://quiltdirect.co.uk/products/bernina-foot-20c-9mm-open-embroidery 
             p.mb-0.text-center Se puede utilizar con un folder o guía para poner el caucho en los brasieres y pantis, además para sesgar las copas de los brasieres y asentarlas.
         .col-sm-12.col-lg-6
@@ -323,7 +323,7 @@
                 .titulo-sexto.color-primario
                   p.mb-0 #[b Figura 11.] Máquina de coser con puntada zigzag
                 figure.mb-0
-                  img(src='@/assets/curso/temas/t1/19.png', alt='Máquina de coser realizando una puntada en zigzag sobre tela oscura. Se presentan las prensatelas y la aguja en acción, asegurando una costura firme y elástica.')
+                  img(src='@/assets/curso/temas/t1/19.png', alt='Máquina de coser realizando una puntada en zigzag sobre tela clara. Se presentan las prensatelas y la aguja en acción, asegurando una costura firme y elástica.')
                   figcaption.mb-0 Fuente: SENA, (2014).     
       .row.align-items-center.mb-5.titulo-icono(data-aos="fade-left")
         .col-auto.titulo-icono-img
