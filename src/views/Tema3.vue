@@ -91,7 +91,7 @@
                     p.mb-0 #[b Destornillador pequeño:] es pequeño y se utiliza para los tornillos de la caja bobina. También es llamado “bobinero”.
                   li.d-flex
                     i.fas.fa-check-circle.bg-color-1
-                    p.mb-0 #[b Destornillador hexagonal:] se caracteriza porque tiene punta hexagonal y se utiliza para atornillar/desatornillar las agujas de las máquinas fileteadoras y recubridoras, además para colocar algunas guías.
+                    p.mb-0 #[b Destornillador hexagonal:] se caracteriza porque tiene punta hexagonal y se utiliza para atornillar / desatornillar las agujas de las máquinas fileteadoras y recubridoras, además para colocar algunas guías.
 
         .tarjeta.color-acento-botones.p-4(titulo="Llaves boca fija")
           h4 Llaves boca fija
@@ -238,16 +238,16 @@
             p.mb-0 #[b Figura 38.] Máquina  plana de 1 aguja
           figure.mb-0
             img(src='@/assets/curso/temas/t3/18.png', alt='Máquina de coser donde se observan el pie prensatelas, la planchuela y los dientes de arrastre, elementos esenciales para el movimiento y sujeción de la tela durante la costura.')
-            figcaption.mt-1 Fuente: SENA, (2014). 
+            figcaption.mt-1 Fuente: SENA, (2014) 
         .col-sm-12.col-lg-4.mb-cus
           img.w-18.mb-3.d-none.d-lg-block(src='@/assets/curso/temas/t3/20.svg', alt='')
-          p.mb-0 En la siguiente figura, detrás de la aguja, se encuentra la barra del prensatelas (1), que sostiene el pie prensatelas (2). Su función es sujetar la tela contra los dientes de arrastre, permitiendo su movimiento para la formación de la puntada. Este pie se fija con un tornillo (3) y cuenta con una palanca en la parte posterior que permite subirlo y bajarlo.
+          p.mb-0 En la siguiente figura, detrás de la aguja, se encuentra la barra del prensatelas (1), que sostiene el pie prensatelas (2). Su función es sujetar la tela contra los dientes de arrastre, permitiendo su movimiento para la formación de la puntada. Este pie se fija con un tornillo (3) y cuenta con una palanca en la parte posterior que permite subirlo y bajarlo (4).
         .col-sm-12.col-lg-4
           .titulo-sexto.color-acento-contenido
             p.mb-0 #[b Figura 39.] Barra  del prensatelas
           figure.mb-0
             img(src='@/assets/curso/temas/t3/19.png', alt='Máquina de coser donde se observa la barra del prensatelas, el pie prensatelas y los dientes de arrastre, que trabajan juntos para sujetar y mover la tela durante la costura.')
-            figcaption.mt-1 Fuente: SENA, (2014). 
+            figcaption.mt-1 Fuente: SENA, (2014) 
 
 
       .bg-color-6.mb-4(data-aos="fade-left")
@@ -283,7 +283,7 @@
             p.mb-0 #[b Figura 40.] Dientes
           figure.mb-0
             img(src='@/assets/curso/temas/t3/22.png', alt='Secuencia del movimiento de los dientes de arrastre en una máquina de coser.')
-            figcaption.mt-1 Fuente: SENA, (2014). 
+            figcaption.mt-1 Fuente: SENA, (2014) 
         .col-sm-12.col-lg-6
           p.mb-3 Para desplazar el material, los dientes de arrastre utilizan su parte superior para hacer contacto con la tela. Durante el transporte, la tela se incrusta en la separación entre los dientes, permitiendo su desplazamiento de manera continua y uniforme.
           p.mb-0 Los dientes de arrastre varían en tamaño y se diferencian según la cantidad de dientes por pulgada o la separación entre ellos en milímetros. Su elección depende del material a coser. Para telas tejidas normales, existen opciones de 16, 18, 20 y 24 dientes por pulgada, mientras que, para materiales más compactos, como cuero y lonas, hay dientes con una separación de hasta 2.5 mm. También existen dientes piramidales cuando superan los 24 dientes por pulgada, como en las máquinas familiares. Además, es importante considerar la cantidad de hileras y los carriles en los que vienen, disponibles en el mercado desde una hilera en adelante.
@@ -334,7 +334,7 @@
             p.mb-0 #[b Figura 41.]  Tipos de pies de prensatelas
           figure.mb-0
             img(src='@/assets/curso/temas/t3/24.svg', alt='Diferentes tipos de pies prensatelas para máquinas de coser, cada uno con variaciones en su diseño y forma, adaptados para distintas funciones y tipos de tela.')
-            figcaption.mt-1 Fuente: SENA, (2014). 
+            figcaption.mt-1 Fuente: SENA, (2014) 
 
       .bg-color-6.mb-4(data-aos="fade-left")
             h3.px-3.py-1 Planchuela
@@ -354,7 +354,7 @@
                 p.mb-0 #[b Figura 42.] Planchuela
               figure.mb-0
                 img(src='@/assets/curso/temas/t3/27.svg', alt='Planchuela de máquina de coser, que muestra la plancha corrediza, la plancha de aguja con los carriles para el movimiento de los dientes de arrastre y el orificio central por donde pasa la aguja.')
-                figcaption.mt-1 Fuente: SENA, (2014). 
+                figcaption.mt-1 Fuente: SENA, (2014) 
             
       .row.align-items-center.mb-4.titulo-icono(data-aos="fade-left")
         .col-auto.titulo-icono-img
@@ -371,7 +371,7 @@
             p.mb-0 #[b Figura 43.] Máquina  plana de 2 agujas
           figure.mb-0
             img(src='@/assets/curso/temas/t3/28.png', alt='Esquema del ajuste en máquinas de dos agujas, compuesto por dientes, planchuela, pie prensatelas y soporte de agujas. La separación entre las agujas determina el espacio de costura.')
-            figcaption.mt-1 Fuente: SENA, (2014). 
+            figcaption.mt-1 Fuente: SENA, (2014) 
       
       .bg-color-6.mb-4(data-aos="fade-left")
             h3.px-3.py-1 Ajuste fileteadora
@@ -396,7 +396,7 @@
             p.mb-0 #[b Figura 44.] Ajuste fileteadora
           figure.mb-0
             img(src='@/assets/curso/temas/t3/29.png', alt='Presenta el área de ajuste de una fileteadora industrial, donde se identifican cuatro componentes clave: la guía del hilo (1), el áncora inferior (2), el áncora superior (3) y el regulador de tensión del hilo (4). Estos elementos permiten calibrar la costura para obtener un acabado preciso y uniforme.')
-            figcaption.mt-1 Fuente: SENA, (2014). 
+            figcaption.mt-1 Fuente: SENA, (2014) 
       
       
       
@@ -424,7 +424,7 @@
             p.mb-0 #[b Figura 45.]  Planchuelas  para máquinas recubridoras
           figure.mb-0
             img(src='@/assets/curso/temas/t3/30.svg', alt='Diferentes tipos de planchuelas para máquinas recubridoras, con variaciones en el diseño de los dientes de arrastre y el paso de las agujas para costuras elásticas y de refuerzo.')
-            figcaption.mt-1 Fuente: SENA, (2014). 
+            figcaption.mt-1 Fuente: SENA, (2014) 
       
       
       
@@ -496,7 +496,7 @@
             p.mb-0 #[b Figura 46.] Puntada cadeneta
           figure.mb-0
             img(src='@/assets/curso/temas/t3/37.svg', alt='Puntada tipo cadeneta, mostrando la cara superior de la costura con bucles alineados y la cara inferior con el característico entrelazado en forma de cadeneta.')
-            figcaption.mt-1 Fuente: SENA, (2014).
+            figcaption.mt-1 Fuente: SENA, (2014)
 
 
 
@@ -517,7 +517,7 @@
             p.mb-0 #[b Figura 47.] Puntada plana  o doble pespunte
           figure.mb-0
             img(src='@/assets/curso/temas/t3/39.svg', alt='La puntada serie 300 o doble pespunte muestra puntadas rectas en la cara superior y entrelazadas en la inferior, ofreciendo resistencia y buen acabado.')
-            figcaption.mt-1 Fuente: SENA, (2014).
+            figcaption.mt-1 Fuente: SENA, (2014)
 
       .row.justify-content-center.mb-5
         .col-sm-12.col-lg-11
@@ -529,7 +529,7 @@
         p.mb-0 #[b Figura 48.] Series 300
       figure.mb-5
         img(src='@/assets/curso/temas/t3/41.svg', alt='Esquemas de puntadas de la serie 300: tipo 301 (pespunte recto), 304 (zigzag sencillo), 308 (zigzag doble) y 315 (zigzag triple), usadas según el tipo de tejido y nivel de resistencia requerido.')
-        figcaption.mt-1 Fuente: SENA, (2014).
+        figcaption.mt-1 Fuente: SENA, (2014)
 
       .row.align-items-center.mb-4.titulo-icono(data-aos="fade-left")
         .col-auto.titulo-icono-img
@@ -545,7 +545,7 @@
               .col-sm-12.col-lg-1.d-none.d-lg-block
                 img(src='@/assets/curso/temas/t3/43.svg', alt='')
               .col-sm-12.col-lg-11
-                  p.mb-0 Las puntas de la serie 400 tienden a ser voluminosas en la parte inferior de la costura, por lo que se recomienda emplear un hilo de menor calibre en el #[i looper], sin comprometer la resistencia de la costura. Esta serie agrupa un conjunto de puntadas con características similares, siendo la más conocida y utilizada la puntada 401, combinada y aplicada en máquinas cerradoras de codo, empretinadoras y costuras de seguridad.
+                  p.mb-0 Las puntadas de la serie 400 tienden a ser voluminosas en la parte inferior de la costura, por lo que se recomienda emplear un hilo de menor calibre en el #[i looper], sin comprometer la resistencia de la costura. Esta serie agrupa un conjunto de puntadas con características similares, siendo la más conocida y utilizada la puntada 401, combinada y aplicada en máquinas cerradoras de codo, empretinadoras y costuras de seguridad.
           p.mb-0 La puntada 401 tiene un consumo aproximado de 5,5 cm de hilo por cada centímetro de material cosido.
         .col-sm-12.col-lg-3.d-none.d-lg-block
           img(src='@/assets/curso/temas/t3/42.png', alt='')
@@ -557,13 +557,13 @@
             p.mb-0 #[b Figura 49.] Serie  400 tipo 401: cadeneta doble 
           figure.mb-0
             img(src='@/assets/curso/temas/t3/44.svg', alt='Muestra una puntada de la serie 400, específicamente el tipo 401, conocida como cadeneta doble.')
-            figcaption.mt-1 Fuente: SENA, (2014).
+            figcaption.mt-1 Fuente: SENA, (2014)
         .col-sm-12.col-lg-4.bg-color-11.mb-cus
           .titulo-sexto.color-acento-contenido
             p.mb-0 #[b Figura 50.] Serie  406 o cadeneta doble
           figure.mb-0
             img(src='@/assets/curso/temas/t3/45.svg', alt='Muestra un esquema de la puntada de la serie 406, también conocida como cadeneta doble.')
-            figcaption.mt-1 Fuente: SENA, (2014).
+            figcaption.mt-1 Fuente: SENA, (2014)
       
       .row.align-items-center.mb-4.titulo-icono(data-aos="fade-left")
         .col-auto.titulo-icono-img
@@ -576,7 +576,7 @@
             p.mb-0 #[b Figura 51.]  Serie 500 o de  sobrehilado
           figure.mb-0
             img(src='@/assets/curso/temas/t3/46.svg', alt='Presenta un esquema de la puntada de la serie 500, conocida como sobrehilado.')
-            figcaption.mt-1 Fuente: SENA, (2014).
+            figcaption.mt-1 Fuente: SENA, (2014)
         .col-sm-12.col-lg-5
             p.mb-4 Este tipo de puntada puede estar conformado por uno o más hilos que envuelven el borde del material. Es conocida como puntada de filete y se utiliza principalmente para proteger los orillos de las prendas, evitando que se deshilachen con facilidad. También se emplea para unir dos o más piezas de material, especialmente en tejidos de punto, ya que su configuración ofrece excelentes propiedades de elasticidad y recuperación.
             p.mb-0 La resistencia de esta puntada depende en gran medida del hilo de la aguja. Dentro de la serie 500 se agrupa una familia de puntadas con características similares. La más conocida y utilizada es la punta tipo 501, comúnmente aplicada en máquinas empatadoras de tela.
@@ -588,7 +588,7 @@
         p.mb-0 #[b Figura 52.] Serie  500
       figure.mb-5
         img(src='@/assets/curso/temas/t3/48.svg', alt='Puntadas de la serie 500: tipo 501 (filete de un solo hilo), y tipos 502 y 503 (filete de dos hilos), utilizados para sobrehilado y unión de tejidos.')
-        figcaption.mt-1 Fuente: SENA, (2014).
+        figcaption.mt-1 Fuente: SENA, (2014)
 
       .row.mb-5
         .col-sm-12.col-lg-3.mb-cus
@@ -596,7 +596,7 @@
             p.mb-0 #[b Figura 53.] Serie  500 tipo 504: filete de tres hilos
           figure.mb-3
             img(src='@/assets/curso/temas/t3/49.svg', alt='Esquema de la puntada serie 500 tipo 504, también llamado filete de tres hilos, utilizado para sobrehilado y acabado de bordes en tejidos elásticos o de punto.')
-            figcaption.mt-1 Fuente: SENA, (2014).
+            figcaption.mt-1 Fuente: SENA, (2014)
           p.mb-4 Es el más común y tiene un consumo de 14 cm por cada cm de material cosido.
 
         .col-sm-12.col-lg-3.mb-cus
@@ -604,7 +604,7 @@
             p.mb-0 #[b Figura 54.] Serie  500 tipo 514: filete de cuatro hilos
           figure.mb-0
             img(src='@/assets/curso/temas/t3/50.svg', alt='Esquema de la puntada serie 500 tipo 514, conocida como filete de cuatro hilos, usada para unir y sobrehilar tejidos con mayor resistencia y elasticidad.')
-            figcaption.mt-1 Fuente: SENA, (2014).
+            figcaption.mt-1 Fuente: SENA, (2014)
 
 
         .col-sm-12.col-lg-3.mb-cus
@@ -612,14 +612,14 @@
             p.mb-0 #[b Figura 55.] Serie 500 tipo 515: filete de dos  hilos más cadeneta 401
           figure.mb-0
             img(src='@/assets/curso/temas/t3/51.svg', alt='Esquema de puntada tipo filete de cinco hilos, combinación de sobrehilado y costura de refuerzo, común en confección de prendas de tejido de punto.')
-            figcaption.mt-1 Fuente: SENA, (2014).
+            figcaption.mt-1 Fuente: SENA, (2014)
 
         .col-sm-12.col-lg-3
           .titulo-sexto.color-acento-contenido
             p.mb-0 #[b Figura 56.] Serie 500 tipo 516 : filete de tres hilos más cadeneta 401
           figure.mb-0
             img(src='@/assets/curso/temas/t3/52.svg', alt='Esquema de puntada tipo filete de seis hilos, utilizado para unir, reforzar y sobrehilar materiales, ideal para prendas que requieren alta resistencia y elasticidad.')
-            figcaption.mt-1 Fuente: SENA, (2014).
+            figcaption.mt-1 Fuente: SENA, (2014)
 
 
       .row.align-items-center.mb-4.titulo-icono(data-aos="fade-left")
@@ -630,19 +630,19 @@
 
       .row.justify-content-center.mb-5
         .col-sm-12.col-lg-6.mb-cus
-          p.mb-4 Los tipos de puntas de esta serie emplean entre dos y cuatro hilos de aguja, además de un hilo de #[i looper] y uno de recubrimiento. El hilo o los hilos de recubrimiento se sitúan sobre la superficie superior del material y son fijados por los hilos de aguja, mientras que el hilo o los hilos del #[i looper] se entrelazan con todos los hilos de aguja en la parte inferior del tejido.
+          p.mb-4 Los tipos de puntadas de esta serie emplean entre dos y cuatro hilos de aguja, además de un hilo de #[i looper] y uno de recubrimiento. El hilo o los hilos de recubrimiento se sitúan sobre la superficie superior del material y son fijados por los hilos de aguja, mientras que el hilo o los hilos del #[i looper] se entrelazan con todos los hilos de aguja en la parte inferior del tejido.
           .titulo-sexto.color-acento-contenido
             p.mb-0 #[b Figura 57.] Serie 600 
           figure.mb-0
-            img.w-75(src='@/assets/curso/temas/t3/53.svg', alt='En la cara superior se observa el hilo de recubrimiento, mientras que en la cara inferior se aprecia el entrelazado del #[i looper] con los hilos de aguja.')
-            figcaption.w-75.mt-1 Fuente: SENA, (2014). 
+            img.w-75(src='@/assets/curso/temas/t3/53.svg', alt='En la cara superior se observa el hilo de recubrimiento, mientras que en la cara inferior se aprecia el entrelazado del looper con los hilos de aguja.')
+            figcaption.w-75.mt-1 Fuente: SENA, (2014) 
         .col-sm-12.col-lg-6.bg-color-7.p-4
           p.mb-4 Todas estas puntadas son altamente elásticas y producen costuras planas y confortables. Las puntadas más conocidas de esta serie son:
           .titulo-sexto.color-acento-contenido
             p.mb-0 #[b Figura 58.] Serie 600 tipo 602 : recubridora a dos agujas
           figure.mb-4
-            img.w-75(src='@/assets/curso/temas/t3/54.svg', alt='Puntada serie 600 tipo 602. Presenta una punta de recubrimiento con dos agujas, donde se entrelazan los hilos de aguja con los hilos del #[i looper] y el recubridor, brindando una costura elástica y decorativa.')
-            figcaption.w-75.mt-1 Fuente: SENA, (2014). 
+            img.w-75(src='@/assets/curso/temas/t3/54.svg', alt='Puntada serie 600 tipo 602. Presenta una punta de recubrimiento con dos agujas, donde se entrelazan los hilos de aguja con los hilos del looper y el recubridor, brindando una costura elástica y decorativa.')
+            figcaption.w-75.mt-1 Fuente: SENA, (2014) 
           p.mb-0 La cual tiene un consumo de 25 cm por cada centímetro de material cosido.
 
 
@@ -652,7 +652,7 @@
             p.mb-0 #[b Figura 59.] Serie 600 tipo 605 
           figure.mb-0
             img(src='@/assets/curso/temas/t3/56.svg', alt='Puntada recubridora de la serie 600 tipo 605, compuesta por tres agujas y múltiples hilos entrelazados, diseñada para proporcionar alta resistencia, elasticidad y un acabado decorativo en prendas.')
-            figcaption.mt-1 Fuente: SENA, (2014). 
+            figcaption.mt-1 Fuente: SENA, (2014) 
         .col-sm-12.col-lg-5
           img.w-18.mb-3.d-none.d-lg-block(src='@/assets/curso/temas/t3/57.svg', alt='')
           p.mb-4 Puntada recubridora a tres agujas, caracterizada por su alta resistencia y elasticidad. Presenta un consumo de hilo aproximado de 25 cm por cada centímetro de material cosido.
@@ -668,7 +668,7 @@
         .col-sm-12.col-lg-8
           figure.mb-0
             img(src='@/assets/curso/temas/t3/58.svg', alt='Información sobre el consumo de hilo por cm de costura, número de agujas y relación típica de hilos y tomadores de lazada. Incluye puntadas como cadeneta simple (101), doble pespunte (301), sobrehilado (503, 504) y recubridoras (602, 605).')
-      figcaption.mt-1.mb-5 Fuente: SENA, (2014). 
+      figcaption.mt-1.mb-5 Fuente: SENA, (2014) 
 
 
       .row.align-items-center.mb-4.titulo-icono(data-aos="fade-left")
@@ -684,8 +684,8 @@
       .row.justify-content-center.mb-0.bg-color-3.p-4
         .col-sm-12.col-lg-10
           figure.mb-0
-            img(src='@/assets/curso/temas/t3/59.svg', alt='Prenda de ropa interior femenina (#[i panty]) que señala con números del 1 al 4 las zonas donde se aplican distintos tipos de puntadas. Estos números describen el tipo de puntada, la máquina utilizada y su código correspondiente.')
-      figcaption.mt-1.mb-5 Fuente: SENA, (2017). 
+            img(src='@/assets/curso/temas/t3/59.svg', alt='Prenda de ropa interior femenina (panty) que señala con números del 1 al 4 las zonas donde se aplican distintos tipos de puntadas. Estos números describen el tipo de puntada, la máquina utilizada y su código correspondiente.')
+      figcaption.mt-1.mb-5 Fuente: SENA, (2017) 
 
 
       .titulo-sexto.color-acento-contenido
@@ -694,7 +694,7 @@
         .col-sm-12.col-lg-10
           figure.mb-0
             img(src='@/assets/curso/temas/t3/60.svg', alt='Esquema técnico de un brasier donde se indican con números del 1 al 6 las zonas específicas de aplicación de diferentes tipos de puntadas. A la derecha, relaciona cada número con el tipo de máquina, tipo de puntada y su código.')
-      figcaption.mt-1.mb-5 Fuente: SENA, (2017).
+      figcaption.mt-1.mb-5 Fuente: SENA, (2017)
 
       .titulo-sexto.color-acento-contenido
         p.mb-0 #[b Figura 63.] Puntadas  (camisilla)
@@ -702,7 +702,7 @@
         .col-sm-12.col-lg-10
           figure.mb-0
             img(src='@/assets/curso/temas/t3/61.svg', alt='Esquema técnico de una camisilla, con zonas numeradas del 1 al 5 que indican la ubicación de distintos tipos de puntadas empleadas en su confección. A la derecha, se asocia cada número con el tipo de puntadas, la máquina utilizada y el código.')
-      figcaption.mt-1.mb-5 Fuente: SENA, (2017).
+      figcaption.mt-1.mb-5 Fuente: SENA, (2017)
 
       Separador
       #t_3_4.titulo-segundo.color-acento-contenido(data-aos='fade-right')
@@ -727,7 +727,7 @@
                     p.mb-0 #[b Figura 64.] Costura clase  SSa - 1
                   figure.mb-0
                     img(src='@/assets/curso/temas/t3/62.svg', alt='Proceso de una costura superpuesta simple, donde dos piezas de tela se sobreponen y se unen con una o más hileras de pespuntes.')
-                    figcaption.mt-1 Fuente: SENA, (2014). 
+                    figcaption.mt-1 Fuente: SENA, (2014) 
 
 
               .row.justify-content-center.mb-0.px-5.pt-5
@@ -739,7 +739,7 @@
                     p.mb-0 #[b Figura 65.] Costura  clase LSc - 2
                   figure.mb-0
                     img(src='@/assets/curso/temas/t3/63.svg', alt='Costura engarzada con dos capas de tela superpuestas y unidas por dos hileras de pespuntes, que refuerzan la unión y evitan el deshilachado.')
-                    figcaption.mt-1 Fuente: SENA, (2014). 
+                    figcaption.mt-1 Fuente: SENA, (2014) 
 
 
               .row.justify-content-center.mb-0.px-5.pt-5
@@ -751,7 +751,7 @@
                     p.mb-0 #[b Figura 66.] Costura clase  BSj - 1
                   figure.mb-0
                     img(src='@/assets/curso/temas/t3/64.svg', alt='Costura con dobladillo, donde el borde de la tela se dobla hacia el interior y se fija con una hilera de pespuntes, formando un acabado limpio y resistente.')
-                    figcaption.mt-1 Fuente: SENA, (2014). 
+                    figcaption.mt-1 Fuente: SENA, (2014) 
 
 
               .row.justify-content-center.mb-0.px-5.pt-5
@@ -764,7 +764,7 @@
                     p.mb-0 #[b Figura 67.] Costura (clase  FS)
                   figure.mb-0
                     img(src='@/assets/curso/temas/t3/65.svg', alt='Tipos de costura de canto a canto, donde los bordes de la tela se unen sin superposición mediante puntas de recubrimiento o zigzag, generando una unión sin aumento de grosor.')
-                    figcaption.mt-1 Fuente: SENA, (2014). 
+                    figcaption.mt-1 Fuente: SENA, (2014) 
       Separador
       #t_3_5.titulo-segundo.color-acento-contenido(data-aos='fade-right')
         h2 3.5 Pespunte

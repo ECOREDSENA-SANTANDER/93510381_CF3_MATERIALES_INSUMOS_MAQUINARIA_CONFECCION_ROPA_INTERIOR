@@ -164,13 +164,13 @@ export default {
     {
       tema: 'Máquina plana',
       referencia:
-        'Ecosistema de Recursos Digitales SENA. (2021). Operaciones básicas para el manejo en máquina plana una aguja.',
+        'Ecosistema de Recursos Digitales SENA. (2021). Operaciones básicas para el manejo en máquina plana de una aguja.',
       tipo: 'Video',
       link:
         'https://www.youtube.com/playlist?list=PLkc5n6npRWkg-t8atqD_zdbYU_5n2N3Tj',
     },
     {
-      tema: 'Máquina recubridora',
+      tema: 'Máquina collarín o recubridora',
       referencia:
         'Ecosistema de Recursos Digitales SENA. (2021). Puesta a punto de máquina recubridora.',
       tipo: 'Video',
@@ -180,7 +180,7 @@ export default {
     {
       tema: 'Máquina fileteadora',
       referencia:
-        'Ecosistema de Recursos Digitales SENA. (2021). Puesta a punto de máquina fileteadora con puntada de seguridad',
+        'Ecosistema de Recursos Digitales SENA. (2021). Puesta a punto de máquina fileteadora con puntada de seguridad.',
       tipo: 'Video',
       link:
         'https://www.youtube.com/playlist?list=PLkc5n6npRWkjS1Oni_VR8m2ZJh2pb3E6C',
@@ -357,7 +357,7 @@ export default {
         },
         {
           nombre: 'Lizeth Karina Manchego Suarez',
-          cargo: 'Desarrolladora <i>full-stack</i>',
+          cargo: 'Desarrolladora <i>full stack</i>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -365,6 +365,11 @@ export default {
     {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
+        {
+          nombre: 'Erika Daniela Manrique Rueda',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales',
+          centro: 'Centro Agroturístico - Regional Santander',
+        },
         {
           nombre: 'Erika Fernanda Mejía Pinzón',
           cargo: 'Evaluadora para contenidos inclusivos y accesibles',

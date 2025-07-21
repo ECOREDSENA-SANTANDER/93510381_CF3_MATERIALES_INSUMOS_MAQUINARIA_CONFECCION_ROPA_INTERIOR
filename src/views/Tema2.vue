@@ -18,7 +18,7 @@
             p.mb-0 #[b Figura 32.] Aguja
           figure.mb-0
             img.ml-cus-2(src='@/assets/curso/temas/t2/2.png', alt='Aguja metálica alargada con punta afilada y ranura en su cuerpo, utilizada en máquinas de coser industriales para la formación de puntadas.')
-            figcaption.m-0 Fuente: SENA, (2014). 
+            figcaption.m-0 Fuente: SENA, (2014) 
         .col-sm-12.col-lg-4
           .bg-color-10.p-4
             p.mb-3 Desde el siglo XVII, las agujas han experimentado diversas transformaciones, como la incorporación de una ranura doble, un ojo ovalado, una ranura en espiral y acabados térmicos, entre otros avances.
@@ -58,7 +58,7 @@
             p.mb-0 #[b Figura 33.] Partes de la aguja
           figure.mb-0
             img(src='@/assets/curso/temas/t2/5.svg', alt='Partes de una aguja de máquina de coser, con etiquetas que identifican componentes como el tope, cabo, canal, ojo y punta.')
-            figcaption.mt-1 Fuente: SENA, (2014). 
+            figcaption.mt-1 Fuente: SENA, (2014) 
           .mt-2.d-none.d-lg-block
             img(src='@/assets/curso/temas/t2/6.png', alt='')
 
@@ -110,7 +110,7 @@
               p.mb-0  Condiciones extremas en tejidos y operaciones de alta exigencia.
             li.d-flex
               i.fas.fa-check-circle.bg-color-1
-              p.mb-0 Nuevas necesidades derivadas de fibras textiles avanzadas, que presentan comportamientos técnicos distintos en la costura
+              p.mb-0 Nuevas necesidades derivadas de fibras textiles avanzadas, que presentan comportamientos técnicos distintos en la costura.
 
           .bg-color-3.px-5.py-4
             p.mb-0 Además, se fabrican agujas diseñadas específicamente para máquinas especializadas, como pegadoras de botones, cerradoras de codo, recubridoras y bordadoras. Estas agujas incorporan modificaciones en su geometría y tratamientos térmicos adaptados a cada operación y tipo de tejido.
@@ -136,12 +136,12 @@
                 p.mb-0 #[b Figura 34.] Agujas de punta de bola
               figure.mb-5
                 img(src='@/assets/curso/temas/t2/9.png', alt='Serie de agujas de máquina de coser con diferentes tipos de puntas. Cada aguja tiene una forma distinta en la zona de la punta, lo que permite su uso en diferentes materiales y tipos de costura.')
-                figcaption.mt-1 Fuente: SENA, (2014). 
+                figcaption.mt-1 Fuente: SENA, (2014) 
               .titulo-sexto.color-acento-contenido
                 p.mb-0 #[b Figura 35.] Agujas de punta cortante
               figure.mb-0
                 img(src='@/assets/curso/temas/t2/10.png', alt='Agujas de máquina de coser con diferentes tipos de puntas, cada una diseñada para usos específicos en distintos materiales y procesos de costura.')
-                figcaption.mt-1 Fuente: SENA, (2014). 
+                figcaption.mt-1 Fuente: SENA, (2014) 
         .col-sm-12.col-lg-3.d-none.d-lg-block
           img(src='@/assets/curso/temas/t2/8.png', alt='')
 
@@ -162,7 +162,7 @@
             p.mb-0 #[b Figura 36.] Nomenclatura de las agujas
           figure.mb-0
             img(src='@/assets/curso/temas/t2/12.svg', alt='Selección de agujas para máquina de coser según el material.')
-            figcaption.mt-1 Fuente: SENA, (2017). 
+            figcaption.mt-1 Fuente: SENA, (2017) 
         .col-sm-12.col-lg-4
           img.w-18.mb-3.d-none.d-lg-block(src='@/assets/curso/temas/t2/13.svg', alt='')
           p.mb-3 En el mercado, es posible encontrar diferentes tipos de agujas:
@@ -215,7 +215,7 @@
                 p.mb-0 #[b Figura 37.] Referencia o sistema de aguja  según el tipo de máquina
               figure.mb-0.bg-color-11.px-1.py-1.px-lg-5.py-lg-4
                 img(src='@/assets/curso/temas/t2/18.svg', alt='Referencias de agujas según el tipo de máquina de coser. Las máquinas planas convencionales, electrónicas y en zigzag usan agujas 135 x 5 / 16 x 231. La ojaladora usa 135 x 5, la fileteadora de aguja recta B 27 y la de aguja curva 154 GHS. La presilladora emplea 149 x 3 - 135 x 5, mientras que la pretinadora usa 62 x 57 - UY 113. La recubridora o collarín utiliza B 63, la botonadora 108 x 1 y la cerradora de codo UY 128 - 149 x 3.')
-                figcaption.mt-1 Fuente: SENA, (2017). 
+                figcaption.mt-1 Fuente: SENA, (2017) 
   </template>
 
 <script>
