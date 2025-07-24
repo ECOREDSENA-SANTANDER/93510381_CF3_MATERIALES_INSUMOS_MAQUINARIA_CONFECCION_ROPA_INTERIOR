@@ -183,7 +183,7 @@
       .row.justify-content-center.mb-5
         .col-sm-12.col-lg-4.mb-cus
           .titulo-sexto.color-acento-contenido
-            p.mb-0 #[b Figura 5.] Máquina de coser 
+            p.mb-0 #[b Figura 5.] Partes internas del cabezote
           figure
             img(src='@/assets/curso/temas/t1/12.svg', alt='Máquina de coser mecánica con 14 partes numeradas que muestran el sistema de transmisión, aguja y alimentación de tela.')
             figcaption.mb-0 Fuente: SENA, (2014)
