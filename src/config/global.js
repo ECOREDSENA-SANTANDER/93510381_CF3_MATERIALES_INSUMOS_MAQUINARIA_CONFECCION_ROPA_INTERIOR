@@ -241,7 +241,7 @@ export default {
         'máquina básica que realiza puntadas rectas para unir piezas de tela.',
     },
     {
-      termino: 'Overlock',
+      termino: '<i>Overlock</i>',
       significado:
         'puntada usada en fileteadoras para rematar bordes y unir telas.',
     },

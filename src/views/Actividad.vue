@@ -144,7 +144,7 @@ export default {
         {
           id: 6,
           texto:
-            'La máquina overlock es la que refuerza los puntos de tensión en la ropa, como uniones tirantes.',
+            'La máquina <i>overlock</i> es la que refuerza los puntos de tensión en la ropa, como uniones tirantes.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [

@@ -622,7 +622,7 @@
           img(src='@/assets/bg/1.svg', alt='')
         .col
           h3.mb-0.titulo-icono-text.px-0.py-2 Tipos de máquina fileteadora
-      p.mb-5 En el mercado, existen 3 tipos de máquinas fileteadoras u overlock y se enumeran según la cantidad de hilos que utilizan:
+      p.mb-5 En el mercado, existen 3 tipos de máquinas fileteadoras u #[i overlock] y se enumeran según la cantidad de hilos que utilizan:
       .row.mb-5
         .col-sm-12.col-lg-4.mb-cus
           .tarjeta-avatar
