@@ -45,9 +45,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Felicitaciones! Ha captado con claridad los conceptos de maquinaria, herramientas y ajustes para la confección de ropa interior.',
+            'Ha captado con claridad los conceptos de maquinaria, herramientas y ajustes para la confección de ropa interior.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 2,
@@ -68,9 +68,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Felicitaciones! Ha captado con claridad los conceptos de maquinaria, herramientas y ajustes para la confección de ropa interior.',
+            'Ha captado con claridad los conceptos de maquinaria, herramientas y ajustes para la confección de ropa interior.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 3,
@@ -91,9 +91,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Felicitaciones! Ha captado con claridad los conceptos de maquinaria, herramientas y ajustes para la confección de ropa interior.',
+            'Ha captado con claridad los conceptos de maquinaria, herramientas y ajustes para la confección de ropa interior.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 4,
@@ -114,9 +114,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Felicitaciones! Ha captado con claridad los conceptos de maquinaria, herramientas y ajustes para la confección de ropa interior.',
+            'Ha captado con claridad los conceptos de maquinaria, herramientas y ajustes para la confección de ropa interior.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 5,
@@ -137,9 +137,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Felicitaciones! Ha captado con claridad los conceptos de maquinaria, herramientas y ajustes para la confección de ropa interior.',
+            'Ha captado con claridad los conceptos de maquinaria, herramientas y ajustes para la confección de ropa interior.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 6,
@@ -160,9 +160,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Felicitaciones! Ha captado con claridad los conceptos de maquinaria, herramientas y ajustes para la confección de ropa interior.',
+            'Ha captado con claridad los conceptos de maquinaria, herramientas y ajustes para la confección de ropa interior.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 7,
@@ -183,9 +183,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Felicitaciones! Ha captado con claridad los conceptos de maquinaria, herramientas y ajustes para la confección de ropa interior.',
+            'Ha captado con claridad los conceptos de maquinaria, herramientas y ajustes para la confección de ropa interior.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 8,
@@ -206,9 +206,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Felicitaciones! Ha captado con claridad los conceptos de maquinaria, herramientas y ajustes para la confección de ropa interior.',
+            'Ha captado con claridad los conceptos de maquinaria, herramientas y ajustes para la confección de ropa interior.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 9,
@@ -228,9 +228,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Felicitaciones! Ha captado con claridad los conceptos de maquinaria, herramientas y ajustes para la confección de ropa interior.',
+            'Ha captado con claridad los conceptos de maquinaria, herramientas y ajustes para la confección de ropa interior.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
         {
           id: 10,
@@ -250,9 +250,9 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Felicitaciones! Ha captado con claridad los conceptos de maquinaria, herramientas y ajustes para la confección de ropa interior.',
+            'Ha captado con claridad los conceptos de maquinaria, herramientas y ajustes para la confección de ropa interior.',
           mensaje_incorrecto:
-            'Respuesta incorrecta, revise nuevamente el contenido del componente formativo.',
+            'Revise nuevamente el contenido del componente formativo.',
         },
       ],
       mensaje_final_aprobado:
