@@ -141,19 +141,19 @@
                 p.mb-0 Son pequeños alambres que dirigen el hilo.
 
             .tarjeta.bg-color-4.p-3(x="31%" y="30%" numero="D")
-              .h5.mb-2 D.Palanca tira hilo
+              .h5.mb-2 D. Palanca tira hilo
               p.mb-0 Tira el hilo procedente del portahilos para suministrarlo a la aguja.
               
             .tarjeta.bg-color-4.p-3(x="73%" y="45%" numero="E")
-              .h5.mb-2 E.Palanca de retroceso
+              .h5.mb-2 E. Palanca de retroceso
               p.mb-0 Al activarlo puede hacer puntadas en reversa.
 
-            .tarjeta.bg-color-4.p-3(x="22%" y="65%" numero="F")
-              .h5.mb-2 F. Planchuela corrediza
+            .tarjeta.bg-color-4.p-3(x="22%" y="65%" numero="G")
+              .h5.mb-2 G. Planchuela corrediza
               p.mb-0 Está situada debajo del pie prensatelas y se puede mover para cambiar la bobina.
 
-            .tarjeta.bg-color-4.p-3(x="29.5%" y="65%" numero="G")
-              .h5.mb-2 G. Pie prensatela
+            .tarjeta.bg-color-4.p-3(x="29.5%" y="65%" numero="F")
+              .h5.mb-2 F. Pie prensatela
               p.mb-0 La función es hacer presión y sostener la tela contra la planchuela para que no se mueva.
 
             .tarjeta.bg-color-4.p-3(x="32%" y="62.5%" numero="H")
