@@ -126,58 +126,58 @@
               figure
                 img(src='@/assets/curso/temas/t1/11.png', alt='Máquina de coser con etiquetas que identifican sus partes principales. Entre los componentes señalados se encuentran el tornillo prensa tela, la palanca tira - hilo, el tensor del hilo, la barra de la aguja, la aguja, la planchuela corrediza, el pie prensatelas, la planchuela de la aguja, la guía hilos, el visor de aceite, el volante, el regulador de puntada y la palanca de retroceso. ')
                 figcaption.mb-0 Fuente: https://maquinasparaconfeccion.com/producto/maquina-coser-plana-industrial-gemsy-8900/
-            .tarjeta.bg-color-4.p-3(x="29%" y="60%" numero="")
-              .h5.mb-2 Aguja
+            .tarjeta.bg-color-4.p-3(x="29%" y="60%" numero="A")
+              .h5.mb-2 A. Aguja
               p.mb-0 Conduce el hilo a través de la tela y junto con el hilo de la bobina forman la puntada.
 
-            .tarjeta.bg-color-4.p-3(x="29%" y="54%" numero="")
-              .h5.mb-2 Barra de la aguja
+            .tarjeta.bg-color-4.p-3(x="29%" y="54%" numero="B")
+              .h5.mb-2 B. Barra de la aguja
               p.mb-0 Es la que sostiene la aguja y permite el movimiento.
 
           
 
-            .tarjeta.bg-color-4.p-3(x="35%" y="18%" numero="")
-                .h5.mb-2 Guía hilos
+            .tarjeta.bg-color-4.p-3(x="35%" y="18%" numero="C")
+                .h5.mb-2 C. Guía hilos
                 p.mb-0 Son pequeños alambres que dirigen el hilo.
 
-            .tarjeta.bg-color-4.p-3(x="31%" y="30%" numero="")
-              .h5.mb-2 Palanca tira hilo
+            .tarjeta.bg-color-4.p-3(x="31%" y="30%" numero="D")
+              .h5.mb-2 D.Palanca tira hilo
               p.mb-0 Tira el hilo procedente del portahilos para suministrarlo a la aguja.
               
-            .tarjeta.bg-color-4.p-3(x="73%" y="45%" numero="")
-              .h5.mb-2 Palanca de retroceso
+            .tarjeta.bg-color-4.p-3(x="73%" y="45%" numero="E")
+              .h5.mb-2 E.Palanca de retroceso
               p.mb-0 Al activarlo puede hacer puntadas en reversa.
 
-            .tarjeta.bg-color-4.p-3(x="22%" y="65%" numero="")
-              .h5.mb-2 Planchuela corrediza
+            .tarjeta.bg-color-4.p-3(x="22%" y="65%" numero="F")
+              .h5.mb-2 F. Planchuela corrediza
               p.mb-0 Está situada debajo del pie prensatelas y se puede mover para cambiar la bobina.
 
-            .tarjeta.bg-color-4.p-3(x="29.5%" y="65%" numero="")
-              .h5.mb-2 Pie prensatela
+            .tarjeta.bg-color-4.p-3(x="29.5%" y="65%" numero="G")
+              .h5.mb-2 G. Pie prensatela
               p.mb-0 La función es hacer presión y sostener la tela contra la planchuela para que no se mueva.
 
-            .tarjeta.bg-color-4.p-3(x="32%" y="62.5%" numero="")
-              .h5.mb-2 Planchuela de la aguja
+            .tarjeta.bg-color-4.p-3(x="32%" y="62.5%" numero="H")
+              .h5.mb-2 H. Planchuela de la aguja
               p.mb-0 Situada debajo del pie prensatelas y tiene un orificio que permite el paso de la aguja.
 
 
-            .tarjeta.bg-color-4.p-3(x="75%" y="35%" numero="")
-              .h5.mb-2 Regulador de puntada
+            .tarjeta.bg-color-4.p-3(x="75%" y="35%" numero="I")
+              .h5.mb-2 I. Regulador de puntada
               p.mb-0 Se utiliza para seleccionar el largo de la puntada. Si se ubica en cero la máquina no cose.
 
-            .tarjeta.bg-color-4.p-3(x="35%" y="39%" numero="")
-              .h5.mb-2 Tensor del hilo de la aguja
+            .tarjeta.bg-color-4.p-3(x="35%" y="39%" numero="J")
+              .h5.mb-2 J. Tensor del hilo de la aguja
               p.mb-0 Tensiona el hilo para que la puntada sea correcta.
 
-            .tarjeta.bg-color-4.p-3(x="28%" y="12%" numero="")
-              .h5.mb-2 Tornillo presión del prensatelas
+            .tarjeta.bg-color-4.p-3(x="28%" y="12%" numero="K")
+              .h5.mb-2 K. Tornillo presión del prensatelas
               p.mb-0 Al girar el tornillo que tiene un resorte, se produce la graduación y además amortigua la fuerza que hace la palanca tira hilo.
 
-            .tarjeta.bg-color-4.p-3(x="63%" y="15%" numero="")
-              .h5.mb-2 Visor del aceite
+            .tarjeta.bg-color-4.p-3(x="63%" y="15%" numero="L")
+              .h5.mb-2 L. Visor del aceite
               p.mb-0 Indica el nivel de aceite que tiene la máquina.
-            .tarjeta.bg-color-4.p-3(x="80%" y="25%" numero="")
-              .h5.mb-2 Volante
+            .tarjeta.bg-color-4.p-3(x="80%" y="25%" numero="M")
+              .h5.mb-2 M. Volante
               p.mb-0 El volante es la rueda que recibe el movimiento de la correa y lo transmite a los mecanismos interiores del cabezote. También puede ser movido por la mano cuando se va a levantar la aguja.
               
       .row.justify-content-center.mb-5
@@ -562,61 +562,65 @@
               figure
                 img(src='@/assets/curso/temas/t1/39.png', alt='Como el tensor del hilo, la cuchilla superior y el volante, son componentes clave de una máquina fileteadora. También se identifican elementos esenciales como los dientes de arrastre, la barra de agujas y las prensatelas, que participan en la alimentación y costura de la tela.')
                 figcaption.mb-0 Fuente: https://maquinasdeconfeccion.com/producto/fileteadora-mecatronica-siruba-757l/
-            .tarjeta.bg-color-4.p-3(x="41%" y="46%" numero="")
-              .h5.mb-2 Aguja
+            .tarjeta.bg-color-4.p-3(x="41%" y="46%" numero="A")
+              .h5.mb-2 A. Aguja
               p.mb-0 Conduce el hilo a través de la tela y junto con el hilo de la bobina forman la puntada.
-            .tarjeta.bg-color-4.p-3(x="38%" y="40%" numero="")
-              .h5.mb-2 Barra de agujas
+            .tarjeta.bg-color-4.p-3(x="38%" y="40%" numero="B")
+              .h5.mb-2 B. Barra de agujas
               p.mb-0 Es la que sostiene la aguja y permite el movimiento.
 
-            .tarjeta.bg-color-4.p-3(x="42%" y="41%" numero="")
-              .h5.mb-2 Brazo del prensatelas
+            .tarjeta.bg-color-4.p-3(x="42%" y="41%" numero="C")
+              .h5.mb-2 C. Brazo del prensatelas
               p.mb-0 Permite mover el pie prensatela.
 
             
-            .tarjeta.bg-color-4.p-3(x="42.8%" y="45%" numero="")
-              .h5.mb-2 Cuchilla superior
+            .tarjeta.bg-color-4.p-3(x="42.8%" y="45%" numero="D")
+              .h5.mb-2 D.Cuchilla superior
               p.mb-0 Es utilizada para cortar los extremos sobrantes.
 
-            .tarjeta.bg-color-4.p-3(x="38%" y="48%" numero="")
-              .h5.mb-2 Dientes
+            .tarjeta.bg-color-4.p-3(x="38%" y="48%" numero="E")
+              .h5.mb-2 E. Dientes
               p.mb-0 Son los que permiten que la tela se mueva hacia atrás al ser fileteada.
 
-            .tarjeta.bg-color-4.p-3(x="60%" y="23%" numero="")
-              .h5.mb-2 Guía hilos
+            .tarjeta.bg-color-4.p-3(x="60%" y="23%" numero="F")
+              .h5.mb-2 F. Guía hilos
               p.mb-0 Son pequeños alambres que dirigen el hilo.
 
-            .tarjeta.bg-color-4.p-3(x="36.5%" y="27%" numero="")
-              .h5.mb-2 Palanca tira hilo
+            .tarjeta.bg-color-4.p-3(x="36.5%" y="27%" numero="G")
+              .h5.mb-2 G. Palanca tira hilo
               p.mb-0 Tira el hilo procedente del portahilos para suministrarlo a la aguja.
 
-            .tarjeta.bg-color-4.p-3(x="42%" y="50%" numero="")
-              .h5.mb-2 Planchuela removible
-              p.mb-0 Está situada debajo del pie prensatelas y se puede mover para cambiar la bobina.
-
-            .tarjeta.bg-color-4.p-3(x="60%" y="58%"  numero="")
-              .h5.mb-2 Visor del aceite
-              p.mb-0 Indica el nivel de aceite que tiene la máquina.
-
-            .tarjeta.bg-color-4.p-3(x="40%" y="51%" numero="")
-              .h5.mb-2 Pie prensatela
+            .tarjeta.bg-color-4.p-3(x="40%" y="51%" numero="H")
+              .h5.mb-2 H. Pie prensatela
               p.mb-0 La función es hacer presión y sostener la tela contra la planchuela para que no se mueva.
 
-            .tarjeta.bg-color-4.p-3(x="64%" y="33%" numero="")
-              .h5.mb-2 Tensor del hilo de la aguja
+            .tarjeta.bg-color-4.p-3(x="42%" y="50%" numero="I")
+              .h5.mb-2 I. Planchuela removible
+              p.mb-0 Está situada debajo del pie prensatelas y se puede mover para cambiar la bobina.
+
+            .tarjeta.bg-color-4.p-3(x="30%" y="50%" numero="J")
+              .h5.mb-2 J. Planchuela
+              p.mb-0 Situada debajo del pie prensatelas y tiene un orificio que permite el paso de la aguja.
+
+            
+
+            
+            .tarjeta.bg-color-4.p-3(x="64%" y="33%" numero="K")
+              .h5.mb-2 K. Tensor del hilo de la aguja
               p.mb-0 Tensiona el hilo para que la puntada sea correcta.
 
-            .tarjeta.bg-color-4.p-3(x="38%" y="12%" numero="")
-              .h5.mb-2 Tornillo presión del prensatelas
+            .tarjeta.bg-color-4.p-3(x="38%" y="12%" numero="L")
+              .h5.mb-2 L. Tornillo presión del prensatelas
               p.mb-0 Al girar el tornillo que tiene un resorte, se produce la graduación y además amortigua la fuerza que hace la palanca tira hilo.
 
-            .tarjeta.bg-color-4.p-3(x="75%" y="52%" numero="")
-              .h5.mb-2 Volante
+            .tarjeta.bg-color-4.p-3(x="60%" y="58%"  numero="M")
+              .h5.mb-2 M. Visor del aceite
+              p.mb-0 Indica el nivel de aceite que tiene la máquina. 
+            .tarjeta.bg-color-4.p-3(x="75%" y="52%" numero="N")
+              .h5.mb-2 N. Volante
               p.mb-0 El volante es la rueda que recibe el movimiento de la correa y lo transmite a los mecanismos interiores del cabezote. También puede ser movido por la mano cuando se va a levantar la aguja.
 
-            .tarjeta.bg-color-4.p-3(x="30%" y="50%" numero="")
-              .h5.mb-2 Planchuela
-              p.mb-0 Situada debajo del pie prensatelas y tiene un orificio que permite el paso de la aguja.
+            
       .row.align-items-center.mb-4.titulo-icono(data-aos="fade-left")
         .col-auto.titulo-icono-img
           img(src='@/assets/bg/1.svg', alt='')
@@ -869,29 +873,29 @@
               figure
                 img(src='@/assets/curso/temas/t1/60.png', alt='Diagrama de una máquina collarín con sus principales componentes. Se destacan partes como la palanca tira - hilo, la barra prensatela, la barra de la aguja, el pie prensatela, el visor del aceite, el volante, las guías de hilos y los tensores del hilo.')
                 figcaption.mb-0 Fuente: SENA, (2014)
-            .tarjeta.bg-color-4.p-3(x="36%" y="45%" numero="")
-              .h5.mb-2 Barra de la aguja
+            .tarjeta.bg-color-4.p-3(x="36%" y="45%" numero="A")
+              .h5.mb-2 A. Barra de la aguja
               p.mb-0 Es la que sostiene la aguja y permite el movimiento.
-            .tarjeta.bg-color-4.p-3(x="36%" y="32%" numero="")
-              .h5.mb-2 Barra del prensatela
+            .tarjeta.bg-color-4.p-3(x="36%" y="32%" numero="B")
+              .h5.mb-2 B. Barra del prensatela
               p.mb-0 Lugar donde se fija el pie del prensatela por medio de un tornillo.
-            .tarjeta.bg-color-4.p-3(x="70%" y="40%" numero="")
-              .h5.mb-2 Guía hilos
+            .tarjeta.bg-color-4.p-3(x="70%" y="40%" numero="C")
+              .h5.mb-2 C. Guía hilos
               p.mb-0 Son pequeños alambres que dirigen el hilo.
-            .tarjeta.bg-color-4.p-3(x="36%" y="20%" numero="")
-              .h5.mb-2 Palanca tira hilo
+            .tarjeta.bg-color-4.p-3(x="36%" y="20%" numero="D")
+              .h5.mb-2 D. Palanca tira hilo
               p.mb-0 Suministra hilo a la aguja, recupera el hilo sobrante y tensiona el hilo durante la formación de la puntada.
-            .tarjeta.bg-color-4.p-3(x="36%" y="55%" numero="")
-              .h5.mb-2 Pie prensatela
+            .tarjeta.bg-color-4.p-3(x="36%" y="55%" numero="E")
+              .h5.mb-2 E. Pie prensatela
               p.mb-0 La función es hacer presión y sostener la tela contra la planchuela para que no se mueva.
-            .tarjeta.bg-color-4.p-3(x="72%" y="46%" numero="")
-              .h5.mb-2 Tensores del hilo de la aguja
+            .tarjeta.bg-color-4.p-3(x="72%" y="46%" numero="F")
+              .h5.mb-2 F. Tensores del hilo de la aguja
               p.mb-0 Tensiona el hilo para que la puntada sea correcta.
-            .tarjeta.bg-color-4.p-3(x="53%" y="20%" numero="")
-              .h5.mb-2 Visor del aceite
+            .tarjeta.bg-color-4.p-3(x="53%" y="20%" numero="G")
+              .h5.mb-2 G. Visor del aceite
               p.mb-0 Indica el nivel de aceite que tiene la máquina.
-            .tarjeta.bg-color-4.p-3(x="78%" y="30%" numero="")
-              .h5.mb-2 Volante
+            .tarjeta.bg-color-4.p-3(x="78%" y="30%" numero="H")
+              .h5.mb-2 H. Volante
               p.mb-0 Es la rueda que recibe el movimiento de la correa y lo transmite a los mecanismos interiores del cabezote. También puede ser movido por la mano cuando se va a levantar la aguja.
               
       .row.align-items-center.mb-4.titulo-icono(data-aos="fade-left")
@@ -1068,29 +1072,29 @@
                   figure
                     img(src='@/assets/curso/temas/t1/66.png', alt='Se destacan la palanca tira - hilo, el tensor del hilo, la barra prensa tela y el pie prensatelas en la parte frontal. También se señalan la guía de hilos en la parte superior, el devanador en la parte trasera, y la cama en forma de codo junto con el gancho o garfio en la parte inferior.')
                     figcaption.mb-0 Fuente: SENA, (2014)
-                .tarjeta.bg-color-4.p-3(x="72.5%" y="29%" numero="")
-                  .h5.mb-2 Devanador
-                  p.mb-0 Sirve para enrollar el hilo que necesita la bobina.
-                .tarjeta.bg-color-4.p-3(x="31.5%" y="49.5%" numero="")
-                  .h5.mb-2 Barra del prensatela
+                .tarjeta.bg-color-4.p-3(x="31.5%" y="49.5%" numero="A")
+                  .h5.mb-2 A. Barra del prensatela
                   p.mb-0 Lugar donde se fija el pie del prensatela por medio de un tornillo.
-                .tarjeta.bg-color-4.p-3(x="27%" y="68%" numero="")
-                  .h5.mb-2 Cama en forma de codo
+                .tarjeta.bg-color-4.p-3(x="27%" y="68%" numero="B")
+                  .h5.mb-2 B. Cama en forma de codo
                   p.mb-0 Permite el apoyo del material.
-                .tarjeta.bg-color-4.p-3(x="36.5%" y="45.5%" numero="")
-                  .h5.mb-2 Gancho o garfio
+                .tarjeta.bg-color-4.p-3(x="72.5%" y="29%" numero="C")
+                  .h5.mb-2 C. Devanador
+                  p.mb-0 Sirve para enrollar el hilo que necesita la bobina.
+                .tarjeta.bg-color-4.p-3(x="36.5%" y="45.5%" numero="D")
+                  .h5.mb-2 D. Gancho o garfio
                   p.mb-0 Soporta el pie prensatela.
-                .tarjeta.bg-color-4.p-3(x="33.5%" y="20%" numero="")
-                  .h5.mb-2 Guía hilos
+                .tarjeta.bg-color-4.p-3(x="33.5%" y="20%" numero="E")
+                  .h5.mb-2 E.Guía hilos
                   p.mb-0 Son pequeños alambres que dirigen el hilo.
-                .tarjeta.bg-color-4.p-3(x="29%" y="20%" numero="")
-                  .h5.mb-2 Palanca tira hilo
+                .tarjeta.bg-color-4.p-3(x="29%" y="20%" numero="F")
+                  .h5.mb-2 F. Palanca tira hilo
                   p.mb-0 Tira el hilo procedente del portahilos para suministrarlo a la aguja.
-                .tarjeta.bg-color-4.p-3(x="26%" y="58%" numero="")
-                  .h5.mb-2 Pie prensatela
+                .tarjeta.bg-color-4.p-3(x="26%" y="58%" numero="G")
+                  .h5.mb-2 G. Pie prensatela
                   p.mb-0 La función es hacer presión y sostener la tela contra la planchuela para que no se mueva.
-                .tarjeta.bg-color-4.p-3(x="31.5%" y="38%" numero="")
-                  .h5.mb-2 Tensor del hilo de la aguja
+                .tarjeta.bg-color-4.p-3(x="31.5%" y="38%" numero="H")
+                  .h5.mb-2 H. Tensor del hilo de la aguja
                   p.mb-0 Tensiona el hilo para que la puntada sea correcta.
       .row.align-items-center.mb-4.titulo-icono
         .col-auto.titulo-icono-img
