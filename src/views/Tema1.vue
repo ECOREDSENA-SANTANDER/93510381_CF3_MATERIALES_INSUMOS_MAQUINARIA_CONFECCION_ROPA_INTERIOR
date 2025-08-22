@@ -575,7 +575,7 @@
 
             
             .tarjeta.bg-color-4.p-3(x="42.8%" y="45%" numero="D")
-              .h5.mb-2 D.Cuchilla superior
+              .h5.mb-2 D. Cuchilla superior
               p.mb-0 Es utilizada para cortar los extremos sobrantes.
 
             .tarjeta.bg-color-4.p-3(x="38%" y="48%" numero="E")
@@ -1085,7 +1085,7 @@
                   .h5.mb-2 D. Gancho o garfio
                   p.mb-0 Soporta el pie prensatela.
                 .tarjeta.bg-color-4.p-3(x="33.5%" y="20%" numero="E")
-                  .h5.mb-2 E.Guía hilos
+                  .h5.mb-2 E. Guía hilos
                   p.mb-0 Son pequeños alambres que dirigen el hilo.
                 .tarjeta.bg-color-4.p-3(x="29%" y="20%" numero="F")
                   .h5.mb-2 F. Palanca tira hilo
